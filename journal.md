@@ -3,7 +3,7 @@
 ---
 
 ## 12th September 2026
-- I started working on the first Assignment ** Prototyping: Website **
+- I started working on the first Assignment **Prototyping: Website**
 - I think the professor gave a README.md template but since I'm super new with markdown, ~~ it kind of looks disorganized in VSC so ~~ i started with just a basic heading lists of what was required on the assignment (bleh)
 - I might be doing this in one day am i losing mark for a non-multiple day repo commits ?????? anywayns
 
