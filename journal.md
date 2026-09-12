@@ -32,4 +32,10 @@ I think I am done with the general assignment requirements for now (12 PM) but I
 Okay so gif from the web didn't work so I huh I imported a gif on the repo :family:
 I also updated to add tables and some stuff hehe. 
 
+I forgor to do process screenshot :sob: The history of commits can probably still be seen. Here are some of this version of Website for now
+
+![Image1](./assets/capture/First_website1.png)
+![Image2](./assets/capture/First_website2.png)
+![Image3](./assets/capture/First_website3.png)
+
 --- 
