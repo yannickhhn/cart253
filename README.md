@@ -1,2 +1,13 @@
 
-This is a repository for the Creative Computation Class Hello World Challenge - 9 Sept 2026 (Week 1)
+# **CART 253 Creative Computation Project**
+    Author : ==Yannick Hantaniaina==
+
+    I know I'm sorry it's a lame title but I will update it when I know what kind of interface/game I am going to make :trollface: :trollface: :trollface:. On the meantime I drew this pretty image as a banner for compensation.
+
+    ![Readme banner](c:\Users\Yanni\OneDrive\Pictures\Art\artstation pdc.JPG)
+
+## Description
+
+## Links 
+
+## 
