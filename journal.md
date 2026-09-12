@@ -1,16 +1,16 @@
 
 # :purple_heart: Reflective Journal :purple_heart: 
 ---
-- [] Come up with Project Idea
-- [] Update ReadMe title
-- [] Update Description 
-- [] Update Media Content in Description and Links 
-- [] Write Licenses if Applicable 
-- [] Write Journal as you go
+- [ ] Come up with Project Idea
+- [ ] Update ReadMe title
+- [ ] Update Description 
+- [ ] Update Media Content in Description and Links 
+- [ ] Write Licenses if Applicable 
+- [ ] Write Journal as you go
 
 --- 
 
-## 12^th^ September 2026
+## 12<sup>th</sup> September 2026
 - I started working on the first Assignment **Prototyping: Website**
 - I think the professor gave a README.md template but since I'm super new with markdown, ~~it kind of looks disorganized in VSC so~~ i started with just a basic heading lists of what was required on the assignment (bleh)
 - I might be doing this in one day am i losing mark for a non-multiple day repo commits ?????? anywayns

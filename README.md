@@ -1,17 +1,13 @@
 
 # :large_blue_diamond: **CART 253 Creative Computation Project** :large_blue_diamond:
-Author: :star2: **Yannick Hantaniaina** :star2: 
+
+![Readme banner](./assets/images/banner.JPG)
+
+Author: :star2: **Yannick Hantaniaina** :star2:[^1]
+
+[^1]: I know I'm sorry it's a lame title but I will update it when I know what kind of interface/game I am going to make. On the meantime I drew this pretty image as a banner for compensation.
 
 
-
-![Readme banner](./assets/images/banner.JPG)[^1]
-
-
-
-[^1] I know I'm sorry it's a lame title but I will update it when I know what kind of interface/game I am going to make. On the meantime I drew this pretty image as a banner for compensation.
-
-Author: :star2: **Yannick Hantaniaina** :star2:  
---- 
 ## :small_blue_diamond: Description
 
 This website is a portfolio-like platform where I share my *Creative Computation Class Project*.
@@ -25,7 +21,7 @@ This website is a portfolio-like platform where I share my *Creative Computation
 
 --- 
 
-> I am hoping to share my weekly progress and a Journal to document my journey. Most likely, this Description will be changed into something more concrete once I come to an actual idea of the game/User interface I would like to achieve. In the meantime, enjoy my **PRETTY** banner and my markdown learning journey for now. Below, I will be sharing a link to my devpost with my ~~outdated ~~ artstation portfolio ~~and my linkedin~~.[^2]
+> I am hoping to share my weekly progress and a Journal to document my journey. Most likely, this Description will be changed into something more concrete once I come to an actual idea of the game/User interface I would like to achieve. In the meantime, enjoy my **PRETTY** banner and my markdown learning journey for now. Below, I will be sharing a link to my devpost with my ~~outdated~~ artstation portfolio ~~and my linkedin~~.[^2]
 
 --- 
 ![Gif](./assets/images/download.gif)
