@@ -1,10 +1,10 @@
 
 # **CART 253 Creative Computation Project**
-    Author : ==Yannick Hantaniaina==
+Author: ==Yannick Hantaniaina==
 
-    I know I'm sorry it's a lame title but I will update it when I know what kind of interface/game I am going to make :trollface: :trollface: :trollface:. On the meantime I drew this pretty image as a banner for compensation.
+I know I'm sorry it's a lame title but I will update it when I know what kind of interface/game I am going to make :trollface: :trollface: :trollface:. On the meantime I drew this pretty image as a banner for compensation.
 
-    ![Readme banner](c:\Users\Yanni\OneDrive\Pictures\Art\artstation pdc.JPG)
+![Readme banner](cart253/assets/images/banner.JPG)
 
 ## Description
 
