@@ -12,16 +12,15 @@ Author: :star2: **Yannick Hantaniaina** :star2:[^1]
 
 This website is a portfolio-like platform where I share my *Creative Computation Class Project*.
 
->| Tool | Purpose |
->| :----------- | :----------- |
->| Markdown | Informational page for future user  |
->| p5.js  | Prototyping and Building | 
->| HTML | Design Interface |
->| Procreate | Banner & Assets Design | 
+| Tool | Purpose |
+| :----------- | :----------- |
+| Markdown | Informational page for future user  |
+| p5.js  | Prototyping and Building | 
+| HTML | Design Interface |
+| Procreate | Banner & Assets Design | 
 
-\ 
+
 > I am hoping to share my weekly progress and a Journal to document my journey. Most likely, this Description will be changed into something more concrete once I come to an actual idea of the game/User interface I would like to achieve. In the meantime, enjoy my **PRETTY** banner and my markdown learning journey for now. Below, I will be sharing a link to my devpost with my ~~outdated~~ artstation portfolio ~~and my linkedin~~.[^2]
-
 
 
 
