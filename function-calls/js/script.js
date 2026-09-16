@@ -8,16 +8,18 @@
 "use strict";
 
 /**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
+ * blank canvas 
 */
 function setup() {
-    createCanvas(640,480);
+    createCanvas(1840,1480);
 }
 
 
 /**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
+Its just a white rectangle on a blue background
 */
 function draw() {
+ background(0,0,70);
+ rect(0,0,1840,700);
 
 }
