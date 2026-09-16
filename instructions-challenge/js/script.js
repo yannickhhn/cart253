@@ -1,9 +1,12 @@
 /**
- * Title of Project
- * Author Name
+ * Landscape 
+ * Yannick Hantaniaina
  * 
- * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
- * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
+ * In this assignment, I will be drawing a landscape in order to learn JS p5j
+ * I currently have no other description suitable for this program except its self explanatory. We are going to draw a landscape using javascript :)
+ * 
+ * 
+ * 
  */
 
 "use strict";
