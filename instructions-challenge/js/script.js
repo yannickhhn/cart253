@@ -1,5 +1,5 @@
 /**
- * Landscape 
+ * Black Hole 
  * Yannick Hantaniaina
  * 
  * In this assignment, I will be drawing a landscape in order to learn JS p5j
@@ -36,25 +36,28 @@ function draw() {
         circle(489,290,3);
         circle(520,330,2);
         circle(600,23,5);
-        circle(120,30,6);
-        circle(120,30,6);
-        circle(120,30,6);
-        circle(120,30,6);
-        circle(120,30,6);
+        circle(240,45,3);
+        circle(50,200,4);
+        circle(450,30,6);
+        circle(120,230,6);
+        circle(450,30,6);
 
     }
     /**
      * this is the function to do stuff on the planet
      */
     function drawplanet() {
+
         // planet so an arc over the canvas 
-       
         arc(320,480,700,200,PI,TWO_PI);
 
         push();
         stroke(120);
         strokeWeight(9);
-        ellipse(230,410,70,40);
+        ellipse(230,420,120,40);
+        ellipse(400,450,100,30)
+        ellipse(100,470,70,30)
+        ellipse(560,480,80,30)
         pop();
     }
     /**
