@@ -29,6 +29,7 @@ function draw() {
     function drawbg() {
         // background for space
          background(0,0,60);
+
         // small stars
         fill(255,255,255);
         circle(120,30,6);
@@ -86,9 +87,10 @@ function draw() {
      * This is to draw the small probe hehe
      */
     function drawprobe(){
-
+        // head for the probe's disk
      ellipse(220,300,50);
 
+     // the triangle tail for the probe
      push();
      fill(65);
      triangle(220,300,250,340,170,300);
