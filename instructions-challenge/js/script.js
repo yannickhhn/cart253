@@ -51,29 +51,50 @@ function draw() {
        
         arc(320,480,700,200,PI,TWO_PI);
 
+        push();
+        stroke(120);
+        strokeWeight(9);
+        ellipse(230,410,70,40);
+        pop();
     }
     /**
-     * This is the function to draw a black hole
+     * This is the function to draw a black hole and its light rings
      */
     function drawblackhole() {
-        // black hole circle
+        // black hole ring
+        push();
+        noFill();
+        stroke(255,90,0);
+        strokeWeight(7);
+        ellipse(320,170,220,40);
+        pop();
+
+         // black hole circle
         push();
         stroke(255,90,0)
         strokeWeight(4)
         fill(0);
         circle(320,170,120);
         pop();
-
-        push();
-        noFill();
-        stroke(255,90,0);
-        strokeWeight(4);
-        arc(320,170,220,40,PI,TWO_PI);
-        pop();
         
+    }
+
+    /**
+     * This is to draw the small probe hehe
+     */
+    function drawprobe(){
+
+     ellipse(220,300,50);
+
+     push();
+     fill(65);
+     triangle(220,300,250,340,170,300);
+     pop();
+
     }
 
     drawbg();
     drawplanet();
     drawblackhole();
+    drawprobe();
 }
