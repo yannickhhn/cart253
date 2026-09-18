@@ -35,7 +35,14 @@ This website is a portfolio-like platform where I share my *Creative Computation
 3. **[LinkedIn](https://www.linkedin.com/in/yannick-hantaniaina)**
 4. **[Reflective Journal](./journal.md)**
 
+---
+## Prototyping: Instructions 
+1. **[Prototype-1](./prototyping-instructions/prototype-1/)**
+2. **[Prototype-2](./prototyping-instructions/prototype-2/)**
+3. **[Prototype-3](./prototyping-instructions/prototype-3/)**
 
+    **Journal Entry**: [18th September 2026](./journal.md#18th-september-2026)
+--- 
 ## :small_blue_diamond: License 
 
 > ![Gif](./assets/images/download.gif)

@@ -39,3 +39,9 @@ I forgor to do process screenshot :sob: The history of commits can probably stil
 ![Image3](./assets/capture/First_website3.png)
 
 --- 
+
+## 18<sup>th</sup> September 2026
+I am starting the second assignment about prototyping-instructions. tbf with you all i am confused ass hell and i wish there was an example on the repo on what we had to do or maybe a little summary (?)
+
+I just updated the Readme to add links to my three prototypes and huh i will continue doing so
+
