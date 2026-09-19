@@ -41,7 +41,17 @@ I forgor to do process screenshot :sob: The history of commits can probably stil
 --- 
 
 ## 18<sup>th</sup> September 2026
+
 I am starting the second assignment about prototyping-instructions. tbf with you all i am confused ass hell and i wish there was an example on the repo on what we had to do or maybe a little summary (?)
 
 I just updated the Readme to add links to my three prototypes and huh i will continue doing so
+
+it's been an hour and im still confused as heck
+
+OHHHHH I AM SUPPOSED TO DRAW REPRESENTATIONAL, DRAW ABSTRACT AND THEN DRAW SOMETHING WEIRD 
+oml :wilted_flower:
+
+On the first prototype (representational), I intend to draw Coco's hat from witch hat atelier. It came from the idea that it's a witch hat, which is a relatively simple concept, but its hopefully detailed enough to explore the topic I want to learn. 
+
+first, i am going to set up a larger canvas than the one in class challenge. I want to challenge myself with the scale and numbers, since that's what was challenging during the in class session (it took me soooo long for element placements) 
 
