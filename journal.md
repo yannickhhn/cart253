@@ -67,4 +67,7 @@ AAAAAAAA Im not sure what "Concept being explored" is. Everything is so confusin
 
 I'm gonna draw two hats. I can't find the polygonal tool on p5j 
 
-I finished with the first hat. 
+I finished with the first hat. I started refining the backhround and added shadows 
+it's pretty fun but the reference on p5j.com is pretty basic so i had to make more google search on syntaxes like opacity etc. I also learned how to show mouse coordinates on the screen which made my workflow 10 times faster.
+
+Now i am going to work on the details of the hat. 
