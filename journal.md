@@ -71,3 +71,7 @@ I finished with the first hat. I started refining the backhround and added shado
 it's pretty fun but the reference on p5j.com is pretty basic so i had to make more google search on syntaxes like opacity etc. I also learned how to show mouse coordinates on the screen which made my workflow 10 times faster.
 
 Now i am going to work on the details of the hat. 
+
+I saw Sabine's message and so we're not supposed to explore 3d and sound animation but only the things we did in class. I am therefore done with prototype 1. It wasn't what i planned to do at the beginning but i feel more confident in making geometrical shapes in here now.
+
+I am going to start the second prototype, which is the abstract one.
