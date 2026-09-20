@@ -40,7 +40,9 @@ I forgor to do process screenshot :sob: The history of commits can probably stil
 
 --- 
 
-## 18<sup>th</sup> September 2026
+## Prototyping:Instructions
+
+## 18<sup>th</sup> September 2026 - 
 
 I am starting the second assignment about prototyping-instructions. tbf with you all i am confused ass hell and i wish there was an example on the repo on what we had to do or maybe a little summary (?)
 
@@ -55,3 +57,14 @@ On the first prototype (representational), I intend to draw Coco's hat from witc
 
 first, i am going to set up a larger canvas than the one in class challenge. I want to challenge myself with the scale and numbers, since that's what was challenging during the in class session (it took me soooo long for element placements) 
 
+## 20<sup>th</sup> September 2026 -
+I am going to continue what i have started on friday. First though i will update my journal link in the class website because i didn't finish in a day. 
+second, I am going to continue drawing the witch hat. I am very much used to drawing digitally and it is a very tedious process to even draw using code. 
+
+I found a general idea of what i want to do with the other two prototypes. 3D for abstract and a mix of both for the 3rd prototype. Honestly this is a raw unfiltered idea and I migth change my mind later if there are more areas i want to explore, but for now i think i am covering a scope that is important enough. 
+
+AAAAAAAA Im not sure what "Concept being explored" is. Everything is so confusing and i wish classes are actually for teaching instead of dillydallying 
+
+I'm gonna draw two hats. I can't find the polygonal tool on p5j 
+
+I finished with the first hat. 
