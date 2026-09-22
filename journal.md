@@ -90,6 +90,20 @@ I learned i can use an online rbg color generator so i will be using that to hav
 
 I am done with this frame, now i will be doing the image manipulation to make it into an actual kaleidoscope
 
+## 22<sup>th</sup> September 2026
+
+Okay so it turns out the image importation is beyond the scope of this assignment and also that its more complicated and includes variable assignment. 
+
+I am not sure if i should restart or keep the current tile as it is. Or maybe i learn from the internet how to import images etc?
+
+ I have decided to move forward to prototype 3 due to time concerns and also because i had other assignments to do 
+
+ # Prototype 3
+
+ 
+
+
+
 
 
 

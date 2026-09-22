@@ -1,15 +1,11 @@
 /**
- * Title of Project
- * Author Name
- * 
- * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
- * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
+ * Exquisite Body
  */
 
 "use strict";
 
 /**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
+ * a normal canvas where I can draw
 */
 function setup() {
 
@@ -17,8 +13,36 @@ function setup() {
 
 
 /**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
+ * I will use a big function draw for the entire foreground and small nested functions for each body parts.
 */
 function draw() {
 
+    //function for head
+    function head(){
+
+    }
+
+    //function for bust and waist
+    function body(){
+
+    }
+    
+    //This function for lower body
+    function lowerBody(){
+
+    }
+
+    //function for any additional concepts on top 
+    function miscellaneous(){
+
+    }
+
+
+    // function calls 
+    head()
+    body()
+    lowerBody()
+    miscellaneous()
+
+    
 }
