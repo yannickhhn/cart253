@@ -56,7 +56,7 @@ function draw() {
         
     }
 
-    //function for bust and waist, I am going to make a robotic body
+    //function for bust and waist, I am going to make a robotic body with crab hands
 
     function body(){
         //bust
@@ -87,6 +87,34 @@ function draw() {
         circle(252.5,260,15,70)
         pop()
 
+        //crab hands
+            //left arm
+            push()
+            translate(235,-30)
+            rotate(45)
+            rect(140,190,15,70)
+            circle(147.5,190,15)
+            circle(147.5,260,15)
+
+            // claw
+            circle(147.5, 280, 18)
+            triangle(147.5,280, 110,268, 110,278)
+            triangle(147.5,280, 110,292, 110,282)
+            pop()
+
+            //right arm
+            push()
+            translate(495,-75)
+            rotate(190)
+            rect(245,190,15,70)
+            circle(252.5,190,15,70)
+            circle(252.5,260,15,70)
+
+            circle(252.5, 280, 18)
+            triangle(252.5,280, 215,268, 215,278)
+            triangle(252.5,280, 215,292, 215,282)
+
+            pop()
 
         //shadows
         fill(208,30,70)
@@ -101,8 +129,18 @@ function draw() {
 
     }
     
-    //This function for lower body
+    //This function for lower body. I want to make a mermaid. 
     function lowerBody(){
+        
+        //fish tail corpse
+        fill(112,80,47)
+        arc(200,290,60,400,TWO_PI,PI)
+        quad(185,463,215,463,205,520,195,520)
+        arc(200,520,200,200,QUARTER_PI,PI-QUARTER_PI)
+
+        fill(208,30,90)
+        rect(195,520,10,5)
+    
 
     }
 
