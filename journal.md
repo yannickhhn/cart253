@@ -100,7 +100,7 @@ I am not sure if i should restart or keep the current tile as it is. Or maybe i 
 
  # Prototype 3
 
- 
+ Things are getting so much easier and faster, and drawing on a canvas using code feels more intuitive for now. I just finished head of the exquisite body and am satring with the body.
 
 
 
