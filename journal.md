@@ -101,6 +101,9 @@ I am not sure if i should restart or keep the current tile as it is. Or maybe i 
  # Prototype 3
 
  Things are getting so much easier and faster, and drawing on a canvas using code feels more intuitive for now. I just finished head of the exquisite body and am satring with the body.
+ Played around with HSL and the rotate function. I feel more creative with P3 after learning a lot with P1 and P2.
+ 
+
 
 
 

@@ -56,8 +56,48 @@ function draw() {
         
     }
 
-    //function for bust and waist
+    //function for bust and waist, I am going to make a robotic body
+
     function body(){
+        //bust
+        fill(208,30,90)
+        rect(160,190,80,40)
+        rect(170,230,60,30)
+        rect(180,260,40,20)
+        rect(190,185,20,10)
+        rect(170,280,60,10)
+        
+        circle(170,190,20,20)
+        circle(230,190,20,20)
+
+        //arms
+        push()
+        translate(235,-30)
+        rotate(45)
+        rect(140,190,15,70)
+        circle(147.5,190,15)
+        circle(147.5,260,15)
+        pop()
+
+        push()
+        translate(495,-75)
+        rotate(190)
+        rect(245,190,15,70)
+        circle(252.5,190,15,70)
+        circle(252.5,260,15,70)
+        pop()
+
+
+        //shadows
+        fill(208,30,70)
+        rect(170,230,60,10)
+        rect(180,260,40,10)
+        rect(170,200,60,20)
+        rect(230,205,3,10)
+
+        //battery bar
+        fill(110,80,90)
+        rect(171,201,40,18)
 
     }
     
