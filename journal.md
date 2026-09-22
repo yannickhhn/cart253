@@ -75,3 +75,21 @@ Now i am going to work on the details of the hat.
 I saw Sabine's message and so we're not supposed to explore 3d and sound animation but only the things we did in class. I am therefore done with prototype 1. It wasn't what i planned to do at the beginning but i feel more confident in making geometrical shapes in here now.
 
 I am going to start the second prototype, which is the abstract one.
+
+## 21<sup>th</sup> September 2026 -
+
+Now i am starting with the second prototype. The idea is to put form into form in a kaleidoscopic-kind of illustration. This is again a raw idea and maybe the idea will change when i am working with the media later, depending on how complex and time consuming it is for me. Ideally i would like to finish both prototype 2 and 3 today but we will see. I wanna make the canva small
+
+omg cann i duplicate a canvas. Yesss I can by getting an image of the canvas and duplicating it. 
+
+at some point on the experiment, I was challenged with some bugs and mistaken function that messed up the entire thing, so i had to double check my code and restart the go live on another port. thankfully it worked. here is an image of what happened: 
+![error](./prototyping-instructions/prototype-2/assets/images/error.png)
+
+I learned i can use an online rbg color generator so i will be using that to have a faster process from now on
+![frame](./prototyping-instructions/prototype-2/assets/images/tile_image.png)
+
+I am done with this frame, now i will be doing the image manipulation to make it into an actual kaleidoscope
+
+
+
+
