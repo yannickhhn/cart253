@@ -42,69 +42,37 @@ I forgor to do process screenshot :sob: The history of commits can probably stil
 
 ## Prototyping:Instructions
 
-## 18<sup>th</sup> September 2026 - 
+# 18<sup>th</sup> September 2026 - 
 
-I am starting the second assignment about prototyping-instructions. tbf with you all i am confused ass hell and i wish there was an example on the repo on what we had to do or maybe a little summary (?)
+I am starting the second assignment about prototyping-instructions. Tbf with you all, I am confused as hell and really wish there was an example on the repo or a little summary.
 
-I just updated the Readme to add links to my three prototypes and huh i will continue doing so
+OHHHH I AM SUPPOSED TO DRAW REPRESENTATIONAL, DRAW ABSTRACT AND THEN DRAW SOMETHING WEIRD oml :wilted_flower:
 
-it's been an hour and im still confused as heck
+For prototype 1, I decided to draw Coco’s hat from Witch Hat Atelier. I wanted something relatively simple but detailed enough to explore the topic. I also used a larger canvas to challenge myself with scale and element placement, which was difficult during the in-class challenge.
 
-OHHHHH I AM SUPPOSED TO DRAW REPRESENTATIONAL, DRAW ABSTRACT AND THEN DRAW SOMETHING WEIRD 
-oml :wilted_flower:
+# 20<sup>th</sup> September 2026 -
+I continued working on the witch hat. I’m very used to drawing digitally, so drawing with code felt tedious at first. I finished the first hat, added background details and shadows, and learned how to display mouse coordinates, which made my workflow MUCH faster.
 
-On the first prototype (representational), I intend to draw Coco's hat from witch hat atelier. It came from the idea that it's a witch hat, which is a relatively simple concept, but its hopefully detailed enough to explore the topic I want to learn. 
+I also realized that we were only supposed to explore things covered in class, so I decided prototype 1 was done. I feel more confident with geometric shapes now.
+![witch hat](./prototyping-instructions/prototype-1/assets/images/witch-hat.png)
 
-first, i am going to set up a larger canvas than the one in class challenge. I want to challenge myself with the scale and numbers, since that's what was challenging during the in class session (it took me soooo long for element placements) 
+# 21<sup>th</sup> September 2026 -
 
-## 20<sup>th</sup> September 2026 -
-I am going to continue what i have started on friday. First though i will update my journal link in the class website because i didn't finish in a day. 
-second, I am going to continue drawing the witch hat. I am very much used to drawing digitally and it is a very tedious process to even draw using code. 
-
-I found a general idea of what i want to do with the other two prototypes. 3D for abstract and a mix of both for the 3rd prototype. Honestly this is a raw unfiltered idea and I migth change my mind later if there are more areas i want to explore, but for now i think i am covering a scope that is important enough. 
-
-AAAAAAAA Im not sure what "Concept being explored" is. Everything is so confusing and i wish classes are actually for teaching instead of dillydallying 
-
-I'm gonna draw two hats. I can't find the polygonal tool on p5j 
-
-I finished with the first hat. I started refining the backhround and added shadows 
-it's pretty fun but the reference on p5j.com is pretty basic so i had to make more google search on syntaxes like opacity etc. I also learned how to show mouse coordinates on the screen which made my workflow 10 times faster.
-
-Now i am going to work on the details of the hat. 
-
-I saw Sabine's message and so we're not supposed to explore 3d and sound animation but only the things we did in class. I am therefore done with prototype 1. It wasn't what i planned to do at the beginning but i feel more confident in making geometrical shapes in here now.
-
-I am going to start the second prototype, which is the abstract one.
-
-## 21<sup>th</sup> September 2026 -
-
-Now i am starting with the second prototype. The idea is to put form into form in a kaleidoscopic-kind of illustration. This is again a raw idea and maybe the idea will change when i am working with the media later, depending on how complex and time consuming it is for me. Ideally i would like to finish both prototype 2 and 3 today but we will see. I wanna make the canva small
-
-omg cann i duplicate a canvas. Yesss I can by getting an image of the canvas and duplicating it. 
-
-at some point on the experiment, I was challenged with some bugs and mistaken function that messed up the entire thing, so i had to double check my code and restart the go live on another port. thankfully it worked. here is an image of what happened: 
+For prototype 2, I wanted to put form into form in a kaleidoscopic-looking illustration. I experimented with duplicating the canvas and different colours. I also ran into a bunch of bugs and had to restart my code, but thankfully figured it out.
 ![error](./prototyping-instructions/prototype-2/assets/images/error.png)
 
-I learned i can use an online rbg color generator so i will be using that to have a faster process from now on
+I planned to manipulate the image into an actual kaleidoscope, but realized image importation was beyond the scope of the assignment.
 ![frame](./prototyping-instructions/prototype-2/assets/images/tile_image.png)
 
-I am done with this frame, now i will be doing the image manipulation to make it into an actual kaleidoscope
 
-## 22<sup>th</sup> September 2026
+# 22<sup>th</sup> September 2026
 
-Okay so it turns out the image importation is beyond the scope of this assignment and also that its more complicated and includes variable assignment. 
+Because of time concerns, I decided to move on to prototype 3 instead of restarting prototype 2.
 
-I am not sure if i should restart or keep the current tile as it is. Or maybe i learn from the internet how to import images etc?
+Things are getting much easier and faster. Drawing with code feels more intuitive now. I played around with HSL and the rotate function and feel much more creative after what I learned from P1 and P2. I finished the head and body of my exquisite corpse and will do some final refining.
 
- I have decided to move forward to prototype 3 due to time concerns and also because i had other assignments to do 
-
- # Prototype 3
-
- Things are getting so much easier and faster, and drawing on a canvas using code feels more intuitive for now. I just finished head of the exquisite body and am satring with the body.
- Played around with HSL and the rotate function. I feel more creative with P3 after learning a lot with P1 and P2.
-
- i think i am done with the body. still will be refining things though.
-
+Finished with the third prototype ! YAY 
+![Exquisite-body](./prototyping-instructions/prototype-3/assets/images/Exquisite-body.png)
 
 
 

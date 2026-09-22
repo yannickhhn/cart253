@@ -1,4 +1,4 @@
-## Prototype 3 - Weird Prototype
+## Prototype 3 - Exquisite body 
 
-In this one I would like to use as much mix of 2D and 3D as I can.
+In this prototype I want to make a mix of different body parts that make a whole body. 
 
