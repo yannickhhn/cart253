@@ -1,5 +1,8 @@
 /**
  * Exquisite Body
+ * Author: Yannick Hantaniaina.
+ * 
+ * It's a robot mermaid !
  */
 
 "use strict";
@@ -32,26 +35,30 @@ function draw() {
 
     //function for head
     function head(){
+
+        //hair
         fill(0)
         arc(200,175,70,160,PI,TWO_PI)
 
+        // white face mask and it's neck and round earrings
         fill(100)
         ellipse(200,135,50,70)
         circle(227,150,5)
         circle(173,150,5)
         rect(193,160,15,40)
 
+        //facial details 
         fill(0)
         ellipse(188,127,15,10)
         ellipse(210,127,15,10)
         arc(200,145,20,30,TWO_PI,PI)
 
-        
-        
+        //Red cheeks
         fill(5,56,100)
         ellipse(188,138,10,10)
         ellipse(210,138,10,10)
 
+        //eyelashes 
         push()
         stroke(0)
         strokeWeight(2)
@@ -61,13 +68,15 @@ function draw() {
         line(217,135,210,123)
         pop()
 
+        // hair front
         fill(0)
         quad(199,98,199,116,163,122,163,112)
         quad(200,98,200,116,235,122,235,112)
 
+
+        //neck shadow
         fill(0,0,70)
         arc(200.5,169,15,30,TWO_PI,PI)
-
         
     }
 
@@ -82,6 +91,7 @@ function draw() {
         rect(190,185,20,10)
         rect(170,280,60,10)
         
+        //shoulders
         circle(170,190,20,20)
         circle(230,190,20,20)
 
@@ -111,6 +121,7 @@ function draw() {
             circle(0,0,15)
             circle(0,70,15)
 
+            //claw 
             fill(19,88,91)
             circle(0,90,18)
             triangle(0,90, -37.5,78, -37.5,88)
@@ -140,9 +151,11 @@ function draw() {
         arc(200,520,200,200,TWO_PI,PI)
         circle(148,520,95)
 
+        //end of tail rectangle
         fill(208,30,90)
         rect(195,520,10,5)
 
+        //fins
         fill(198,10,100,1)
         circle(253,520,95)
         triangle(200,525,162,633,130,600)

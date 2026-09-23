@@ -1,9 +1,8 @@
 /**
- * Title of Project
- * Author Name
+ * Coco's witch Hat
+ * Author: Yannick Hantaniaina
  * 
- * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
- * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
+ * This is a drawing of Coco's hat on a table.
  */
 
 "use strict";

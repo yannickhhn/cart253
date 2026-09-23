@@ -1,5 +1,8 @@
 /**
- * Kaleidoscope
+ * Kaleidoscope Tile
+ * Author: Yannick Hantaniaina
+ * 
+ * This is to achieve one kaleidoscope tile for multiplication later.
  */
 
 "use strict";
