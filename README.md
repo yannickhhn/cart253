@@ -37,17 +37,39 @@ This website is a portfolio-like platform where I share my *Creative Computation
 
 ---
 ## Prototyping: Instructions 
-1. **[Coco's Witch Hat](./prototyping-instructions/prototype-1/)**
-2. **[Kaleidoscope Tile](./prototyping-instructions/prototype-2/)**
-3. **[Exquisite Body](./prototyping-instructions/prototype-3/)**
+1. **Prototype 1: Coco's Witch Hat**
+    - [Code] (./prototyping-instructions/prototype-1/)
+    - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-instructions/prototype-1/index.html)
+    ![image](./prototyping-instructions/prototype-1/assets/images/witch-hat.png)
+
+2. **Prototype 2: Kaleidoscope Tile** 
+    - [Code](./prototyping-instructions/prototype-2/)
+    - [Running Prototype] (https://yannickhhn.github.io/cart253/prototyping-instructions/prototype-2/index.html)
+    ![image](./prototyping-instructions/prototype-2/assets/images/tile.png)
+    
+3. **Prototype 3 : Exquisite Body**
+    - [Code](./prototyping-instructions/prototype-3/)**
+    - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-instructions/prototype-3/index.html)
+    ![image](./prototyping-instructions/prototype-3/assets/images/Exquisite-body.png)
 
     **Journal Entry**: [Prototyping: Instructions](./journal.md#prototypinginstructions)
 
 ---
 ## Prototyping: Variables
-1. **[Variable-prototype-1](./prototyping-variables/var-prototype-1/)**
-2. **[Variable-prototype-2](./prototyping-variables/var-prototype-2/)**
-3. **[Variable-prototype-3](./prototyping-variables/var-prototype-3/)**
+1. **Prototype 1**
+    - [Code](./prototyping-variables/var-prototype-1/)**
+    - [Running prototype](https://yannickhhn.github.io/cart253/prototyping-variables/prototype-1/index.html)
+    ![image]()
+
+1. **Prototype 2**
+    - [Code](./prototyping-variables/var-prototype-2/)**
+    - [Running prototype](https://yannickhhn.github.io/cart253/prototyping-variables/prototype-2/index.html)
+    ![image]()
+
+3. 1. **Prototype 3**
+    - [Code](./prototyping-variables/var-prototype-3/)**
+    - [Running prototype](https://yannickhhn.github.io/cart253/prototyping-variables/prototype-3/index.html)
+    ![image]()
 
     **Journal Entry**: [Prototyping : Variables](./journal.md#prototypingvariables)
 
