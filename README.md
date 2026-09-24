@@ -36,41 +36,44 @@ This website is a portfolio-like platform where I share my *Creative Computation
 4. **[Reflective Journal](./journal.md)**
 
 ---
-## Prototyping: Instructions 
+## Prototyping: Instructions
+
 1. **Prototype 1: Coco's Witch Hat**
     - [Code](./prototyping-instructions/prototype-1/)
     - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-instructions/prototype-1/index.html)
 
-  ![image](./prototyping-instructions/prototype-1/assets/images/witch-hat.png)
+    <img src="./prototyping-instructions/prototype-1/assets/images/witch-hat.png" alt="Coco's Witch Hat" width="250">
 
-2. **Prototype 2: Kaleidoscope Tile** 
+2. **Prototype 2: Kaleidoscope Tile**
     - [Code](./prototyping-instructions/prototype-2/)
     - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-instructions/prototype-2/index.html)
-  ![image](./prototyping-instructions/prototype-2/assets/images/tile.png)
-    
-3. **Prototype 3 : Exquisite Body**
+
+    <img src="./prototyping-instructions/prototype-2/assets/images/tile.png" alt="Kaleidoscope Tile" width="250">
+
+3. **Prototype 3: Exquisite Body**
     - [Code](./prototyping-instructions/prototype-3/)
     - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-instructions/prototype-3/index.html)
-    
-  ![image](./prototyping-instructions/prototype-3/assets/images/Exquisite-body.png)
 
-    **Journal Entry**: [Prototyping: Instructions](./journal.md#prototypinginstructions)
+    <img src="./prototyping-instructions/prototype-3/assets/images/Exquisite-body.png" alt="Exquisite Body" width="250">
+
+**Journal Entry**: [Prototyping: Instructions](./journal.md#prototypinginstructions)
 
 ---
 ## Prototyping: Variables
+
 1. **Prototype 1**
     - [Code](./prototyping-variables/var-prototype-1/)
-    - [Running prototype](https://yannickhhn.github.io/cart253/prototyping-variables/prototype-1/index.html)
-    
+    - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-variables/var-prototype-1/index.html)
+
 2. **Prototype 2**
     - [Code](./prototyping-variables/var-prototype-2/)
-    - [Running prototype](https://yannickhhn.github.io/cart253/prototyping-variables/prototype-2/index.html)
-    
+    - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-variables/var-prototype-2/index.html)
+
 3. **Prototype 3**
     - [Code](./prototyping-variables/var-prototype-3/)
-    - [Running prototype](https://yannickhhn.github.io/cart253/prototyping-variables/prototype-3/index.html)
-    
-    **Journal Entry**: [Prototyping : Variables](./journal.md#prototypingvariables)
+    - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-variables/var-prototype-3/index.html)
+
+**Journal Entry**: [Prototyping: Variables](./journal.md#prototypingvariables)
 
 --- 
 ## :small_blue_diamond: License 
