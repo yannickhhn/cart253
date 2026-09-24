@@ -42,7 +42,7 @@ I forgor to do process screenshot :sob: The history of commits can probably stil
 
 ## Prototyping:Instructions
 
-# 18<sup>th</sup> September 2026 - 
+### 18<sup>th</sup> September 2026 - 
 
 I am starting the second assignment about prototyping-instructions. Tbf with you all, I am confused as hell and really wish there was an example on the repo or a little summary.
 
@@ -50,13 +50,13 @@ OHHHH I AM SUPPOSED TO DRAW REPRESENTATIONAL, DRAW ABSTRACT AND THEN DRAW SOMETH
 
 For prototype 1, I decided to draw Coco’s hat from Witch Hat Atelier. I wanted something relatively simple but detailed enough to explore the topic. I also used a larger canvas to challenge myself with scale and element placement, which was difficult during the in-class challenge.
 
-# 20<sup>th</sup> September 2026 -
+### 20<sup>th</sup> September 2026 -
 I continued working on the witch hat. I’m very used to drawing digitally, so drawing with code felt tedious at first. I finished the first hat, added background details and shadows, and learned how to display mouse coordinates, which made my workflow MUCH faster.
 
 I also realized that we were only supposed to explore things covered in class, so I decided prototype 1 was done. I feel more confident with geometric shapes now.
 ![witch hat](./prototyping-instructions/prototype-1/assets/images/witch-hat.png)
 
-# 21<sup>th</sup> September 2026 -
+### 21<sup>th</sup> September 2026 -
 
 For prototype 2, I wanted to put form into form in a kaleidoscopic-looking illustration. I experimented with duplicating the canvas and different colours. I also ran into a bunch of bugs and had to restart my code, but thankfully figured it out.
 ![error](./prototyping-instructions/prototype-2/assets/images/error.png)
@@ -65,7 +65,7 @@ I planned to manipulate the image into an actual kaleidoscope, but realized imag
 ![frame](./prototyping-instructions/prototype-2/assets/images/tile_image.png)
 
 
-# 22<sup>th</sup> September 2026
+### 22<sup>th</sup> September 2026
 
 Because of time concerns, I decided to move on to prototype 3 instead of restarting prototype 2.
 
@@ -75,6 +75,7 @@ Finished with the third prototype ! YAY
 ![Exquisite-body](./prototyping-instructions/prototype-3/assets/images/Exquisite-body.png)
 
 
+## Prototyping:Variables
 
 
 

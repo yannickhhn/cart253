@@ -37,11 +37,20 @@ This website is a portfolio-like platform where I share my *Creative Computation
 
 ---
 ## Prototyping: Instructions 
-1. **[Prototype-1](./prototyping-instructions/prototype-1/)**
-2. **[Prototype-2](./prototyping-instructions/prototype-2/)**
-3. **[Prototype-3](./prototyping-instructions/prototype-3/)**
+1. **[Coco's Witch Hat](./prototyping-instructions/prototype-1/)**
+2. **[Kaleidoscope Tile](./prototyping-instructions/prototype-2/)**
+3. **[Exquisite Body](./prototyping-instructions/prototype-3/)**
 
-    **Journal Entry**: [Prototyping: Instructions](./journal.md#Prototyping:Instructions)
+    **Journal Entry**: [Prototyping: Instructions](./journal.md#prototypinginstructions)
+
+---
+## Prototyping: Variables
+1. **[Variable-prototype-1](./prototyping-variables/var-prototype-1/)**
+2. **[Variable-prototype-2](./prototyping-variables/var-prototype-2/)**
+3. **[Variable-prototype-3](./prototyping-variables/var-prototype-3/)**
+
+    **Journal Entry**: [Prototyping : Variables](./journal.md#prototypingvariables)
+
 --- 
 ## :small_blue_diamond: License 
 
