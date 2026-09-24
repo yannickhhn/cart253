@@ -20,7 +20,7 @@ This website is a portfolio-like platform where I share my *Creative Computation
 | Procreate | Banner & Assets Design | 
 
 
-> I am hoping to share my weekly progress and a Journal to document my journey. Most likely, this Description will be changed into something more concrete once I come to an actual idea of the game/User interface I would like to achieve. In the meantime, enjoy my **PRETTY** banner and my markdown learning journey for now. Below, I will be sharing a link to my devpost with my ~~outdated~~ artstation portfolio ~~and my linkedin~~.[^2]
+> I am hoping to share my weekly progress and a Journal to document my journey. Most likely, this description will be changed into something more concrete once I come to an actual idea of the game/User interface I would like to achieve.
 
 
 
@@ -40,18 +40,19 @@ This website is a portfolio-like platform where I share my *Creative Computation
 1. **Prototype 1: Coco's Witch Hat**
     - [Code](./prototyping-instructions/prototype-1/)
     - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-instructions/prototype-1/index.html)
-    ![image](./prototyping-instructions/prototype-1/assets/images/witch-hat.png)
+
+  ![image](./prototyping-instructions/prototype-1/assets/images/witch-hat.png)
 
 2. **Prototype 2: Kaleidoscope Tile** 
     - [Code](./prototyping-instructions/prototype-2/)
     - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-instructions/prototype-2/index.html)
-    ![image](./prototyping-instructions/prototype-2/assets/images/tile.png)
+  ![image](./prototyping-instructions/prototype-2/assets/images/tile.png)
     
 3. **Prototype 3 : Exquisite Body**
     - [Code](./prototyping-instructions/prototype-3/)
     - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-instructions/prototype-3/index.html)
     
-     ![image](./prototyping-instructions/prototype-3/assets/images/Exquisite-body.png)
+  ![image](./prototyping-instructions/prototype-3/assets/images/Exquisite-body.png)
 
     **Journal Entry**: [Prototyping: Instructions](./journal.md#prototypinginstructions)
 
@@ -61,11 +62,11 @@ This website is a portfolio-like platform where I share my *Creative Computation
     - [Code](./prototyping-variables/var-prototype-1/)
     - [Running prototype](https://yannickhhn.github.io/cart253/prototyping-variables/prototype-1/index.html)
     
-1. **Prototype 2**
+2. **Prototype 2**
     - [Code](./prototyping-variables/var-prototype-2/)
     - [Running prototype](https://yannickhhn.github.io/cart253/prototyping-variables/prototype-2/index.html)
     
-3. 1. **Prototype 3**
+3. **Prototype 3**
     - [Code](./prototyping-variables/var-prototype-3/)
     - [Running prototype](https://yannickhhn.github.io/cart253/prototyping-variables/prototype-3/index.html)
     
