@@ -9,7 +9,7 @@
 "use strict";
 
 /**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
+ * rectangular canvas to get the extent of the movement
 */
 function setup() {
 
@@ -17,7 +17,7 @@ function setup() {
 
 
 /**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
+ * my drawing draws a projectile across the canvas in a parabola
 */
 function draw() {
 
