@@ -1,9 +1,9 @@
 /**
- * Title of Project
- * Author Name
+ * Canon
+ * Yannick Hantaniaina 
  * 
- * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
- * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
+ * This is to explore the concepts of acceleration, velocity and movement.
+ * Use framecount
  */
 
 "use strict";

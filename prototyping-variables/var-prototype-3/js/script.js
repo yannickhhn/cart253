@@ -1,9 +1,9 @@
 /**
- * Title of Project
- * Author Name
+ * Dragon 
+ * Yannick 
  * 
- * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
- * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
+ * It would be fun in this one if we had the coordinate of an element as the mouse XD, and like little elements just follows it like a dragon
+ * use map for color change and lerp to follow other objects 
  */
 
 "use strict";

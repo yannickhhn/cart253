@@ -79,6 +79,6 @@ Finished with the third prototype ! YAY
 
 ### 26<sup>th</sup> September 2026
 I found an idea of what to do with each prototypes. I am starting with Prototype 1.
-
+For prototype 1, I'm making a lighthouse at night with a glowing light that grows and shrinks. I drew the sea, a grassy hill with a little path, and the lighthouse itself, which felt quicker now that I'm used to placing shapes. Using sin() with frameCount to make the light pulse was the fun part! I got stuck on a couple of bugs, like my mouse coordinates leaving a messy trail across the screen, but I figured them out and learned a lot :bulb:
 
 

@@ -62,8 +62,10 @@ This website is a portfolio-like platform where I share my *Creative Computation
 ## Prototyping: Variables
 
 1. **Prototype 1**
-    - [Code](./prototyping-variables/var-prototype-1/)
-    - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-variables/var-prototype-1/index.html)
+    - [Code](./prototyping-variables/var-prototype-1/js/script.js)
+    - [LightHouse](https://yannickhhn.github.io/cart253/prototyping-variables/var-prototype-1/index.html)
+
+    <img src="./prototyping-variables/var-prototype-1/assets/images/lighthouse.png" alt="Lighthouse" width="250">
 
 2. **Prototype 2**
     - [Code](./prototyping-variables/var-prototype-2/)
