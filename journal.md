@@ -77,6 +77,8 @@ Finished with the third prototype ! YAY
 
 ## Prototyping:Variables
 
+### 26<sup>th</sup> September 2026
+I found an idea of what to do with each prototypes. I am starting with Prototype 1.
 
 
 
