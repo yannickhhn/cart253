@@ -81,4 +81,4 @@ Finished with the third prototype ! YAY
 I found an idea of what to do with each prototypes. I am starting with Prototype 1.
 For prototype 1, I'm making a lighthouse at night with a glowing light that grows and shrinks. I drew the sea, a grassy hill with a little path, and the lighthouse itself, which felt quicker now that I'm used to placing shapes. Using sin() with frameCount to make the light pulse was the fun part! I got stuck on a couple of bugs, like my mouse coordinates leaving a messy trail across the screen, but I figured them out and learned a lot :bulb:
 
-
+For prototype 2, I made a canon that shoots a ball across the screen in an arc. I gave the ball a velocity and a gravity-like acceleration, which was fun to play with. At first the ball kept appearing in mid-air because it moved way too fast, so I slowed it down and matched its angle to my 45° barrel. Since we can't use conditionals yet, I made the ball wait for a mouse click by multiplying its movement by 0 or 1, huh probably not on the course scope yet but i found it online so :p. I added some html title as instruction.
