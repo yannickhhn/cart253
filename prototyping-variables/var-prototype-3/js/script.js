@@ -9,15 +9,21 @@
 "use strict";
 
 /**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
+ * small square canvas again. I justlove hsl its so much more manipulable than rgb (cries in color theory) 
 */
 function setup() {
-
+    createCanvas(400,400)
+    colorMode(HSL)
 }
+
+/**
+ * The head and tails objects 
+ */
+let 
 
 
 /**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
+ * draws the circle trails 
 */
 function draw() {
 
