@@ -74,9 +74,11 @@ This website is a portfolio-like platform where I share my *Creative Computation
     <img src="./prototyping-variables/var-prototype-2/assets/images/cannon.png" alt="Canon" width="250">
 
 3. **Prototype 3**
-    - [Code](./prototyping-variables/var-prototype-3/)
-    - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-variables/var-prototype-3/index.html)
+    - [Code](./prototyping-variables/var-prototype-3/js/script.js)
+    - [Dragon Kite](https://yannickhhn.github.io/cart253/prototyping-variables/var-prototype-3/index.html)
 
+    <img src="./prototyping-variables/var-prototype-3/assets/images/dragon-kite.png" alt="kite" width="250">
+    
 **Journal Entry**: [Prototyping: Variables](./journal.md#prototypingvariables)
 
 --- 
