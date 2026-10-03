@@ -92,3 +92,5 @@ anyways i am done and I honestly took so much less time working on this than the
 ### 3<sup>rd</sup> October 2026
 
 Started with Conditionals prototype ideas. I'm a bit scared I am ambitious so some changes will come along original ideas to adjust it with the scope we currently have.
+
+For prototype 1, I made a day/night switch! Clicking the little toggle knob flips the scene between a sunny sky with clouds and a night sky with a crescent moon :crescent_moon:. I had sooo many tiny bugs but the big lesson was that I was calling `mousePressed()` inside `draw()`, so the switch worked on hover instead of click. p5 calls it by itself once per click, so I moved the switching inside it. Also, HSL opacity goes from 0 to 1 and I thought it was 0-100 like RGB. I used 5 so my clouds weren't see-through lol.
