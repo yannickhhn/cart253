@@ -86,3 +86,9 @@ For prototype 2, I made a canon that shoots a ball across the screen in an arc. 
 For prototype 3, I made a dragon that follows the mouse!! I tried a see-through background first but it just looked like a smear :sob: so I made a chain of segments that each lerp() toward the one in front and connected them with thick lines. Moving the mouse fast opened big gaps, and my offset kept the body stuck on a tilt. I looked into fixing it but tbf a kite's tail is tilted anyway so... it's a kite now :kite: Writing every segment without loops was PAINFUL,???
 
 anyways i am done and I honestly took so much less time working on this than the last prototyping assignments. I also have more control over my versions and my readme files. 
+
+## Prototyping:Conditionals
+
+### 3<sup>rd</sup> October 2026
+
+Started with Conditionals prototype ideas. I'm a bit scared I am ambitious so some changes will come along original ideas to adjust it with the scope we currently have.
