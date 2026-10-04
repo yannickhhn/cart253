@@ -1,6 +1,6 @@
 /**
  * Mini-platform Game
- * Author Name
+ * Yannick Hantaniaina 
  * 
  * Maybe explore keyboard input as conditionals. A vertical level maze were the platforms act as barriers and if it falls and reaches an object it dies 
  * say explore dist(), a constant acceleration (gravity), a platform support that keeps the y constant, and a goal to win if you reach the end of the parcour 
@@ -12,7 +12,7 @@
 "use strict";
 
 /**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
+ * square because symmetrical is easy 
 */
 function setup() {
 
@@ -20,7 +20,7 @@ function setup() {
 
 
 /**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
+ * tbd
 */
 function draw() {
 
