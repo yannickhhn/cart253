@@ -94,3 +94,7 @@ anyways i am done and I honestly took so much less time working on this than the
 Started with Conditionals prototype ideas. I'm a bit scared I am ambitious so some changes will come along original ideas to adjust it with the scope we currently have.
 
 For prototype 1, I made a day/night switch! Clicking the little toggle knob flips the scene between a sunny sky with clouds and a night sky with a crescent moon :crescent_moon:. I had sooo many tiny bugs but the big lesson was that I was calling `mousePressed()` inside `draw()`, so the switch worked on hover instead of click. p5 calls it by itself once per click, so I moved the switching inside it. Also, HSL opacity goes from 0 to 1 and I thought it was 0-100 like RGB. I used 5 so my clouds weren't see-through lol.
+
+### 5<sup>th</sup> October 2026
+
+For prototype 2, I made a mini platformer! You move with the arrow keys and gravity drops you onto a platform to reach the goal :fire:. Platform collision was the hardest part, a little bit ambitious. at first I made a platform() to draw them but I learned I can't measure distance to a function, so I turned my platform into an object. I also mixed up `&&` and `||` twice lol, and had to set the acceleration to 0, not just the velocity, to actually stop the sprite. I think it needs a `while` loop to keep it on the platform consistently though. ehh thats for next time.

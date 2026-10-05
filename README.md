@@ -95,6 +95,8 @@ This website is a portfolio-like platform where I share my *Creative Computation
     - [Code](./prototyping-conditionals/conditional-p2/index.html)
     - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-conditionals/conditional-p2/index.html)
 
+    <img src="./prototyping-conditionals/conditional-p2/assets/images/" alt="platform" width="250">
+
 3. **Prototype 3 :**
     - [Code](./prototyping-conditionals/conditional-p3/index.html)
     - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-conditionals/conditional-p3/index.html)
