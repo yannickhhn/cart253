@@ -92,13 +92,13 @@ This website is a portfolio-like platform where I share my *Creative Computation
 
 <img src="./prototyping-conditionals/conditional-p1/assets/images/night.png" alt="night" width="250">
 
-2. **Prototype 2 : Platform **
+2. **Prototype 2 : Platform**
     - [Code](./prototyping-conditionals/conditional-p2/index.html)
     - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-conditionals/conditional-p2/index.html)
 
     <img src="./prototyping-conditionals/conditional-p2/assets/images/platform.png" alt="platform" width="250">
 
-3. **Prototype 3 :Thermometer **
+3. **Prototype 3 :Thermometer**
     - [Code](./prototyping-conditionals/conditional-p3/index.html)
     - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-conditionals/conditional-p3/index.html)
 
