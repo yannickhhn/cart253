@@ -104,7 +104,25 @@ This website is a portfolio-like platform where I share my *Creative Computation
 
     <img src="./prototyping-conditionals/conditional-p3/assets/images/thermometer.png" alt="thermometer" width="250">
 
-**Journal Entry**: [Prototyping: Variables](./journal.md#prototypingconditionals)
+**Journal Entry**: [Prototyping: Conditionals ](./journal.md#prototypingconditionals)
+
+---
+## Prototyping: Events
+
+1. **Prototype 1 :**
+    - [Code](./prototyping-events/events-1/js/script.js)
+    - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-events/events-1/index.html)
+
+2. **Prototype 2 :**
+    - [Code](./prototyping-events/events-2/js/script.js)
+    - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-events/events-2/index.html)
+
+3. **Prototype 3 :**
+    - [Code](./prototyping-events/events-3/js/script.js)
+    - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-events/events-3/index.html)
+
+
+**Journal Entry**: [Prototyping: Events](./journal.md#prototypingevents)
 
 ---
 ## :small_blue_diamond: License 

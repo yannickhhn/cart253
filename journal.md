@@ -102,3 +102,6 @@ For prototype 2, I made a mini platformer! You move with the arrow keys and grav
 ### 7<sup>th</sup> October 2026
 
 For prototype 3, I made a weather reader! A thermometer goes up and down by itself and the background slowly changes from snowy white to sunny orange :sunny:. The hardest part was the colour gradient for the water and the sky going straight from blue to yellow in HSL passes through green, so I made the sky almost white before switching the hue so you can't see the jump. I also looked up an HSL colour picker online to find the right numbers for each colour.
+
+## Prototyping:Events
+
