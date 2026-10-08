@@ -105,3 +105,7 @@ For prototype 3, I made a weather reader! A thermometer goes up and down by itse
 
 ## Prototyping:Events
 
+### 7<sup>th</sup> October 2026
+
+
+For event-P1, I made bread rising in an oven :bread:! My first idea was a time bomb counting down to boom, but I switched to something cozier lol. I used `setTimeout()` to grow the bread, but I put it inside `draw()`, so it made a new timer every frame and the bread popped up all at once after 20 seconds. I fixed it by having `increaseBread()` call its own timeout again and have `timeout()` in `setup()`. Then I added a "Ready !" banner with `text()` when it's done. I was quite fast with this one i ihope the other ones are as productive ...

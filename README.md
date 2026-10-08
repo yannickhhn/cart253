@@ -104,14 +104,16 @@ This website is a portfolio-like platform where I share my *Creative Computation
 
     <img src="./prototyping-conditionals/conditional-p3/assets/images/thermometer.png" alt="thermometer" width="250">
 
-**Journal Entry**: [Prototyping: Conditionals ](./journal.md#prototypingconditionals)
+**Journal Entry**: [Prototyping: Conditionals](./journal.md#prototypingconditionals)
 
 ---
 ## Prototyping: Events
 
-1. **Prototype 1 :**
+1. **Prototype 1 :Let's Bake !**
     - [Code](./prototyping-events/events-1/js/script.js)
     - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-events/events-1/index.html)
+
+    <img src="./prototyping-events/events-1/assets/images/bread.png" alt="bread in an oven" width="250">
 
 2. **Prototype 2 :**
     - [Code](./prototyping-events/events-2/js/script.js)
