@@ -111,7 +111,7 @@ This website is a portfolio-like platform where I share my *Creative Computation
 
 1. **Prototype 1 :Let's Bake !**
     - [Code](./prototyping-events/events-1/js/script.js)
-    - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-events/events-1/index.html)
+    - [Let's Bake Here](https://yannickhhn.github.io/cart253/prototyping-events/events-1/index.html)
 
     <img src="./prototyping-events/events-1/assets/images/bread.png" alt="bread in an oven" width="250">
 
