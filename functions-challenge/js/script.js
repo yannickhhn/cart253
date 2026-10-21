@@ -17,9 +17,15 @@ const ball = {
     height: 10,
     velocity: {
         x: 0,
-        y: 10
+        y: 1
+    },
+    acceleration: {
+        x: 0,
+        y: 1
     }
 };
+
+
 
 // Our paddle
 const paddle = {
@@ -63,8 +69,10 @@ function movePaddle(paddle) {
  * Moves the ball passed in as a parameter
  */
 function moveBall(ball) {
+     ball.velocity.y += ball.acceleration.y;
     ball.x += ball.velocity.x;
     ball.y += ball.velocity.y;
+    
 }
 
 /**
@@ -72,6 +80,12 @@ function moveBall(ball) {
  */
 function handleBounce(ball, paddle) {
 
+    if (checkOverlap(ball,paddle)){
+        ball.velocity.y = -ball.velocity.y*1.03
+        ball.velocity.x = -ball.velocity.x
+    }
+
+    
 }
 
 /**
