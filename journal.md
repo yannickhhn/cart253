@@ -114,3 +114,8 @@ For event-P1, I made bread rising in an oven :bread:! My first idea was a time b
 ### 20<sup>th</sup> October 2026
 
 For event-P2, I made a click game :computer_mouse:! You click the circle (or press any key) as many times as you can before the timer runs out, and your best score gets saved as the high score. I first had a reset `<button>` in my html but making it work needed stuff we haven't seen yet, so I drew a reset button on the canvas and checked it with `dist()` like my day/night switch.I put the scoring in one `addPoint()` function that both `mousePressed()` and `keyPressed()` call. For the countdown I reused my bread trick, `countDown()` calls its own `setTimeout()` every second until it hits 0 :alarm_clock:
+
+
+### 21<sup>st</sup> October 2026
+
+For event-P3, I made a secret door that only opens if you type the right password (hint: "opensesame"). I used `keyTyped()` to add each letter to a `typed` variable, and when it matches the password the door turns into a dark room. I thought about doinf a rock cave but it was too much so I went back to a simple brown door with a handle and a little hanging sign. I also waned a door opening sound but it just wouldn't work so I gave up on that one. heeeehh maybe next time.

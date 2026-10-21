@@ -121,10 +121,13 @@ This website is a portfolio-like platform where I share my *Creative Computation
 
     <img src="./prototyping-events/events-2/assets/images/Click_game.png" alt="click game image" width="250">
 
-3. **Prototype 3 :**
+3. **Prototype 3 : Alibaba Door**
     - [Code](./prototyping-events/events-3/js/script.js)
     - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-events/events-3/index.html)
 
+    <img src="./prototyping-events/events-3/assets/images/closed_door.png" alt="closed door" width="250">
+
+    <img src="./prototyping-events/events-3/assets/images/open_door.png" alt="open door" width="250">
 
 **Journal Entry**: [Prototyping: Events](./journal.md#prototypingevents)
 
