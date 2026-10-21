@@ -115,9 +115,11 @@ This website is a portfolio-like platform where I share my *Creative Computation
 
     <img src="./prototyping-events/events-1/assets/images/bread.png" alt="bread in an oven" width="250">
 
-2. **Prototype 2 :**
+2. **Prototype 2 : Click Game**
     - [Code](./prototyping-events/events-2/js/script.js)
     - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-events/events-2/index.html)
+
+    <img src="./prototyping-events/events-2/assets/images/Click_game.png" alt="click game image" width="250">
 
 3. **Prototype 3 :**
     - [Code](./prototyping-events/events-3/js/script.js)

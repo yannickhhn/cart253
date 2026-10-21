@@ -109,3 +109,8 @@ For prototype 3, I made a weather reader! A thermometer goes up and down by itse
 
 
 For event-P1, I made bread rising in an oven :bread:! My first idea was a time bomb counting down to boom, but I switched to something cozier lol. I used `setTimeout()` to grow the bread, but I put it inside `draw()`, so it made a new timer every frame and the bread popped up all at once after 20 seconds. I fixed it by having `increaseBread()` call its own timeout again and have `timeout()` in `setup()`. Then I added a "Ready !" banner with `text()` when it's done. I was quite fast with this one i ihope the other ones are as productive ...
+
+
+### 20<sup>th</sup> October 2026
+
+For event-P2, I made a click game :computer_mouse:! You click the circle (or press any key) as many times as you can before the timer runs out, and your best score gets saved as the high score. I first had a reset `<button>` in my html but making it work needed stuff we haven't seen yet, so I drew a reset button on the canvas and checked it with `dist()` like my day/night switch.I put the scoring in one `addPoint()` function that both `mousePressed()` and `keyPressed()` call. For the countdown I reused my bread trick, `countDown()` calls its own `setTimeout()` every second until it hits 0 :alarm_clock:
