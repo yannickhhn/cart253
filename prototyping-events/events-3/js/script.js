@@ -1,9 +1,11 @@
 /**
- * Title of Project
+ * Alibaba Door
  * Yannick Hantaniaina
  * 
- * maybe something about typing something into the keyboard 
- * or a small visual novel where you input your name
+ * A door that only opens if you enter the right password ! 
+ * 
+ * hint : try "opensesame"
+ * 
  */
 
 "use strict";
