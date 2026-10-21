@@ -17,21 +17,36 @@ const ball = {
     height: 10,
     velocity: {
         x: 0,
-        y: 1
+        y: 0.2
     },
     acceleration: {
         x: 0,
-        y: 1
+        y: 0.2
     }
 };
 
+//second ball 
+const ball2 = {
+    x: 200,
+    y: 30,
+    width: 20,
+    height: 20,
+    velocity: {
+        x: 0,
+        y: 0.5
+    },
+    acceleration: {
+        x: 0,
+        y: 0.2
+    }
+};
 
 
 // Our paddle
 const paddle = {
     x: 300,
-    y: 280,
-    width: 80,
+    y: 580,
+    width: 120,
     height: 10
 };
 
@@ -39,7 +54,7 @@ const paddle = {
  * Create the canvas
 */
 function setup() {
-    createCanvas(600, 300);
+    createCanvas(600, 600);
 }
 
 
@@ -51,11 +66,14 @@ function draw() {
 
     movePaddle(paddle);
     moveBall(ball);
-
+    moveBall(ball2);
+    
     handleBounce(ball, paddle);
+    handleBounce(ball2,paddle);
 
     drawPaddle(paddle);
     drawBall(ball);
+    drawBall(ball2)
 }
 
 /**
@@ -69,23 +87,20 @@ function movePaddle(paddle) {
  * Moves the ball passed in as a parameter
  */
 function moveBall(ball) {
-     ball.velocity.y += ball.acceleration.y;
+    ball.velocity.y += ball.acceleration.y;
     ball.x += ball.velocity.x;
     ball.y += ball.velocity.y;
-    
 }
+
 
 /**
  * Bounces the provided ball off the provided paddle
  */
 function handleBounce(ball, paddle) {
-
     if (checkOverlap(ball,paddle)){
-        ball.velocity.y = -ball.velocity.y*1.03
+        ball.velocity.y = -ball.velocity.y*1.01
         ball.velocity.x = -ball.velocity.x
     }
-
-    
 }
 
 /**
