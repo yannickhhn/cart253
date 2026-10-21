@@ -46,7 +46,7 @@ const ball2 = {
 const paddle = {
     x: 300,
     y: 580,
-    width: 120,
+    width: 140,
     height: 10
 };
 
