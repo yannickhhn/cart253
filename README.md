@@ -39,22 +39,22 @@ This website is a portfolio-like platform where I share my *Creative Computation
 ## Prototyping: Instructions
 
 1. **Prototype 1: Coco's Witch Hat**
-    - [Code](./prototyping-instructions/prototype-1/)
-    - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-instructions/prototype-1/index.html)
+    - [Code](./prototypes/instructions/Hat/)
+    - [Running Prototype](https://yannickhhn.github.io/cart253/prototypes/instructions/Hat/index.html)
 
-    <img src="./prototyping-instructions/prototype-1/assets/images/witch-hat.png" alt="Coco's Witch Hat" width="250">
+    <img src="./prototypes/instructions/Hat/assets/images/witch-hat.png" alt="Coco's Witch Hat" width="250">
 
 2. **Prototype 2: Kaleidoscope Tile**
-    - [Code](./prototyping-instructions/prototype-2/)
-    - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-instructions/prototype-2/index.html)
+    - [Code](./prototypes/instructions/Tile/)
+    - [Running Prototype](https://yannickhhn.github.io/cart253/prototypes/instructions/Tile/index.html)
 
-    <img src="./prototyping-instructions/prototype-2/assets/images/tile.png" alt="Kaleidoscope Tile" width="250">
+    <img src="./prototypes/instructions/Tile/assets/images/tile.png" alt="Kaleidoscope Tile" width="250">
 
 3. **Prototype 3: Exquisite Body**
-    - [Code](./prototyping-instructions/prototype-3/)
-    - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-instructions/prototype-3/index.html)
+    - [Code](./prototypes/instructions/Exquisite/)
+    - [Running Prototype](https://yannickhhn.github.io/cart253/prototypes/instructions/Exquisite/index.html)
 
-    <img src="./prototyping-instructions/prototype-3/assets/images/Exquisite-body.png" alt="Exquisite Body" width="250">
+    <img src="./prototypes/instructions/Exquisite/assets/images/Exquisite-body.png" alt="Exquisite Body" width="250">
 
 **Journal Entry**: [Prototyping: Instructions](./journal.md#prototypinginstructions)
 
@@ -62,22 +62,22 @@ This website is a portfolio-like platform where I share my *Creative Computation
 ## Prototyping: Variables
 
 1. **Prototype 1 : Lighthouse on a Hill**
-    - [Code](./prototyping-variables/var-prototype-1/js/script.js)
-    - [LightHouse](https://yannickhhn.github.io/cart253/prototyping-variables/var-prototype-1/index.html)
+    - [Code](./prototypes/variables/Lighthouse/js/script.js)
+    - [LightHouse](https://yannickhhn.github.io/cart253/prototypes/variables/Lighthouse/index.html)
 
-    <img src="./prototyping-variables/var-prototype-1/assets/images/lighthouse.png" alt="Lighthouse" width="250">
+    <img src="./prototypes/variables/Lighthouse/assets/images/lighthouse.png" alt="Lighthouse" width="250">
 
 2. **Prototype 2 : Cannon Launch**
-    - [Code](./prototyping-variables/var-prototype-2/js/script.js)
-    - [Cannon](https://yannickhhn.github.io/cart253/prototyping-variables/var-prototype-2/index.html)
+    - [Code](./prototypes/variables/Cannon/js/script.js)
+    - [Cannon](https://yannickhhn.github.io/cart253/prototypes/variables/Cannon/index.html)
 
-    <img src="./prototyping-variables/var-prototype-2/assets/images/cannon.png" alt="Canon" width="250">
+    <img src="./prototypes/variables/Cannon/assets/images/cannon.png" alt="Canon" width="250">
 
-3. **Prototype 3**
-    - [Code](./prototyping-variables/var-prototype-3/js/script.js)
-    - [Dragon Kite](https://yannickhhn.github.io/cart253/prototyping-variables/var-prototype-3/index.html)
+3. **Prototype 3: Dragon Kite**
+    - [Code](./prototypes/variables/Kite/js/script.js)
+    - [Dragon Kite](https://yannickhhn.github.io/cart253/prototypes/variables/Kite/index.html)
 
-    <img src="./prototyping-variables/var-prototype-3/assets/images/dragon-kite.png" alt="kite" width="250">
+    <img src="./prototypes/variables/Kite/assets/images/dragon-kite.png" alt="kite" width="250">
     
 **Journal Entry**: [Prototyping: Variables](./journal.md#prototypingvariables)
 
@@ -85,24 +85,24 @@ This website is a portfolio-like platform where I share my *Creative Computation
 ## Prototyping: Conditionals
 
 1. **Prototype 1 : Night/Day Switch**
-    - [Code](./prototyping-conditionals/conditional-p1/index.html)
-    - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-conditionals/conditional-p1/index.html)
+    - [Code](./prototypes/conditionals/Switch/index.html)
+    - [Running Prototype](https://yannickhhn.github.io/cart253/prototypes/conditionals/Switch/index.html)
 
-<img src="./prototyping-conditionals/conditional-p1/assets/images/day.png" alt="day" width="250">
+<img src="./prototypes/conditionals/Switch/assets/images/day.png" alt="day" width="250">
 
-<img src="./prototyping-conditionals/conditional-p1/assets/images/night.png" alt="night" width="250">
+<img src="./prototypes/conditionals/Switch/assets/images/night.png" alt="night" width="250">
 
 2. **Prototype 2 : Platform**
-    - [Code](./prototyping-conditionals/conditional-p2/index.html)
-    - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-conditionals/conditional-p2/index.html)
+    - [Code](./prototypes/conditionals/Thermometer/index.html)
+    - [Running Prototype](https://yannickhhn.github.io/cart253/prototypes/conditionals/Thermometer/index.html)
 
-    <img src="./prototyping-conditionals/conditional-p2/assets/images/platform.png" alt="platform" width="250">
+    <img src="./prototypes/conditionals/Thermometer/assets/images/platform.png" alt="platform" width="250">
 
 3. **Prototype 3 :Thermometer**
-    - [Code](./prototyping-conditionals/conditional-p3/index.html)
-    - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-conditionals/conditional-p3/index.html)
+    - [Code](./prototypes/conditionals/Platform/index.html)
+    - [Running Prototype](https://yannickhhn.github.io/cart253/prototypes/conditionals/Platform/index.html)
 
-    <img src="./prototyping-conditionals/conditional-p3/assets/images/thermometer.png" alt="thermometer" width="250">
+    <img src="./prototypes/conditionals/Platform/assets/images/thermometer.png" alt="thermometer" width="250">
 
 **Journal Entry**: [Prototyping: Conditionals](./journal.md#prototypingconditionals)
 
@@ -110,24 +110,24 @@ This website is a portfolio-like platform where I share my *Creative Computation
 ## Prototyping: Events
 
 1. **Prototype 1 :Let's Bake !**
-    - [Code](./prototyping-events/events-1/js/script.js)
-    - [Let's Bake Here](https://yannickhhn.github.io/cart253/prototyping-events/events-1/index.html)
+    - [Code](./prototypes/events/Bakery/js/script.js)
+    - [Let's Bake Here](https://yannickhhn.github.io/cart253/prototypes/events/Bakery/index.html)
 
-    <img src="./prototyping-events/events-1/assets/images/bread.png" alt="bread in an oven" width="250">
+    <img src="./prototypes/events/Bakery/assets/images/bread.png" alt="bread in an oven" width="250">
 
 2. **Prototype 2 : Click Game**
-    - [Code](./prototyping-events/events-2/js/script.js)
-    - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-events/events-2/index.html)
+    - [Code](./prototypes/events/Click/js/script.js)
+    - [Running Prototype](https://yannickhhn.github.io/cart253/prototypes/events/Click/index.html)
 
-    <img src="./prototyping-events/events-2/assets/images/Click_game.png" alt="click game image" width="250">
+    <img src="./prototypes/events/Click/assets/images/Click_game.png" alt="click game image" width="250">
 
 3. **Prototype 3 : Alibaba Door**
-    - [Code](./prototyping-events/events-3/js/script.js)
-    - [Running Prototype](https://yannickhhn.github.io/cart253/prototyping-events/events-3/index.html)
+    - [Code](./prototypes/events/Door/js/script.js)
+    - [Running Prototype](https://yannickhhn.github.io/cart253/prototypes/events/Door/index.html)
 
-    <img src="./prototyping-events/events-3/assets/images/closed_door.png" alt="closed door" width="250">
+    <img src="./prototypes/events/Door/assets/images/closed_door.png" alt="closed door" width="250">
 
-    <img src="./prototyping-events/events-3/assets/images/open_door.png" alt="open door" width="250">
+    <img src="./prototypes/events/Door/assets/images/open_door.png" alt="open door" width="250">
 
 **Journal Entry**: [Prototyping: Events](./journal.md#prototypingevents)
 
