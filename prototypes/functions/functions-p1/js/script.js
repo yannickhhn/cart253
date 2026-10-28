@@ -10,7 +10,8 @@
  * OH LOOK I DIDN'T DESCRIBE SETUP!!
 */
 function setup() {
-    
+    createCanvas(windowWidth, windowHeight);
+    colorMode(HSL);
 }
 
 
@@ -18,5 +19,5 @@ function setup() {
  * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
 */
 function draw() {
-
+    background(141,72,20);
 }
