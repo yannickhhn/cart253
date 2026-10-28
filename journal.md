@@ -119,3 +119,8 @@ For event-P2, I made a click game :computer_mouse:! You click the circle (or pre
 ### 21<sup>st</sup> October 2026
 
 For event-P3, I made a secret door that only opens if you type the right password (hint: "opensesame"). I used `keyTyped()` to add each letter to a `typed` variable, and when it matches the password the door turns into a dark room. I thought about doinf a rock cave but it was too much so I went back to a simple brown door with a handle and a little hanging sign. I also waned a door opening sound but it just wouldn't work so I gave up on that one. heeeehh maybe next time.
+
+## Prototyping:Functions
+
+### 28<sup>th<sup> October 2026
+Hello. I havent had the time to think about this at all ahhhh. So many midterms.

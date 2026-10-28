@@ -1,9 +1,7 @@
 /**
- * Title of Project
- * Author Name
+ * Yannick Hantaniaina
  * 
- * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
- * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
+ * Something repetitive
  */
 
 "use strict";
