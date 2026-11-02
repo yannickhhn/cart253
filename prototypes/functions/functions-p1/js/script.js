@@ -9,7 +9,7 @@
 
 // Our rocket 
 let rocket;
-
+let meteor;
 
 
 /**
@@ -25,6 +25,15 @@ async function setup() {
         image: await loadImage('assets/images/rocket.png')
     };
 
+    meteor = {
+        x: random(0,width),
+        y: random(0,height),
+        image: await loadImage('assets/images/meteor.png'),
+        v: 10,
+        a: 2,
+        size: floor(random(50,100))
+    };
+
 }
 
 
@@ -35,7 +44,8 @@ async function setup() {
 function draw() {
     background(0);
     drawRocket();
-
+    drawMeteor();
+    drawMeteor();
 }
 
 // drawRocket function
@@ -44,3 +54,9 @@ function drawRocket(){
     image(rocket.image, mouseX-50, mouseY-50, 100,100);
 
 }
+
+//draw meteor function
+function drawMeteor(){
+    image(meteor.image, meteor.x, meteor.y, meteor.size,meteor.size);
+}
+
