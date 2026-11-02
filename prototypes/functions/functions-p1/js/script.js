@@ -9,13 +9,19 @@
 
 // Our rocket 
 let rocket;
-let meteor;
+// Our meteors, which all share one image
+let meteorImage;
+let meteors = [];
+let nextMeteorTime = 0;
 let startTime = 0;
-const gameLength = 60;
+const gameLength = 30;
+// How many meteors fall during the whole game
+const totalMeteors = 120;
 
 // Starts the countdown from the current time
 function startTimer(){
     startTime = millis();
+    nextMeteorTime = startTime;
 }
 
 // Returns the seconds left in the game, and stops at 0
@@ -37,14 +43,7 @@ async function setup() {
         image: await loadImage('assets/images/rocket.png')
     };
 
-    meteor = {
-        x: random(0,width),
-        y: 0,
-        image: await loadImage('assets/images/meteor.png'),
-        v: floor(random(0.5,2)),
-        a: floor(random(0.05,0.5)),
-        size: floor(random(150,200))
-    };
+    meteorImage = await loadImage('assets/images/meteor.png');
 
     startTimer();
 }
@@ -58,8 +57,16 @@ function draw() {
     background(0);
     drawRocket();
 
-    moveMeteor();
-    drawMeteor();
+    if (getTimeLeft() > 0){
+        addMeteors();
+
+        for (let meteor of meteors) {
+            moveMeteor(meteor);
+            drawMeteor(meteor);
+        }
+
+      
+    }
 
     drawTimer();
 }
@@ -72,20 +79,36 @@ function drawTimer(){
 }
 
 // drawRocket function
-
 function drawRocket(){
-    image(rocket.image, mouseX-50, mouseY-50, 200,200);
+    image(rocket.image, mouseX-100, mouseY-100, 200,200);
 
+}
+
+// Adds a new meteor above the screen when it's time for the next one
+function addMeteors(){
+    if (millis() > nextMeteorTime && meteors.length < totalMeteors) {
+        let size = floor(random(50,200));
+        let meteor = {
+            x: random(0,width-size),
+            y: -size,
+            v: random(1,2.5),
+            a: random(0.01,0.05),
+            size: size
+        };
+        meteors.push(meteor);
+        // Spaces the meteors evenly across the game
+        nextMeteorTime += gameLength * 1000 / totalMeteors;
+    }
 }
 
 //draw meteor function
-function drawMeteor(){
-    image(meteor.image, meteor.x, meteor.y, meteor.size,meteor.size);
+function drawMeteor(meteor){
+    image(meteorImage, meteor.x, meteor.y, meteor.size,meteor.size);
 }
 
 //move meteor function
-
-function moveMeteor(){
+function moveMeteor(meteor){
     meteor.y += meteor.v;
     meteor.v += meteor.a;
 }
+
