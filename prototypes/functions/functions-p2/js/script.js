@@ -1,13 +1,12 @@
 /**
  * Yannick Hantaniaina
  * 
- * Bubble pop 
+ * Bubble click 
  */
 
 "use strict";
 
 //assets and elements to pre load 
-let bubble; 
 let bubbleImage;
 let bubbles=[];
 
@@ -19,14 +18,7 @@ let bubbles=[];
     createCanvas(windowWidth, windowHeight);
     
     bubbleImage = await loadImage('assets/images/bubble.png')
-    bubble = {
-        x: width/2,
-        y: height,
-        size: random(50,400),
-        v: -2,
-        a: -0.5
-    }
-
+   
 }
 
 
@@ -43,14 +35,22 @@ function draw() {
 }
 
 //bubble on mouseclick for testing
-function mouseclick(){
+function mouseClicked(){
+
+     let bubble = {
+        x: random(50,windowWidth-50),
+        y: windowHeight,
+        size: random(50,400),
+        v: -2,
+        a: -0.05
+    }
+
     bubbles.push(bubble)
-    console.log(bubbles)
 }
 
 //drawbubble function: 
 function drawBubble(bubble){
-    image(bubbleImage,random(0,width),bubble.y, bubble.size, bubble.size)
+    image(bubbleImage,bubble.x,bubble.y, bubble.size, bubble.size)
 }
 
 //movebubble function 
