@@ -17,6 +17,9 @@ let startTime = 0;
 const gameLength = 30;
 // How many meteors fall during the whole game
 const totalMeteors = 120;
+// Our hearts, which all share one image
+let heartImage;
+let hearts = [];
 
 // Starts the countdown from the current time
 function startTimer(){
@@ -39,11 +42,22 @@ async function setup() {
 
     rocket = {
         x: width/2,
-        y: 4*(height/4),
+        y: height - 200,
         image: await loadImage('assets/images/rocket.png')
     };
 
     meteorImage = await loadImage('assets/images/meteor.png');
+    heartImage = await loadImage('assets/images/heart.png');
+
+    // Lines up 5 hearts in the top right corner
+    for (let i = 0; i < 5; i++) {
+        let heart = {
+            x: width - 140 - i*50,
+            y: -55,
+            size: 200
+        };
+        hearts.push(heart);
+    }
 
     startTimer();
 }
@@ -64,14 +78,20 @@ function draw() {
             moveMeteor(meteor);
             drawMeteor(meteor);
         }
-
-      
     }
-
     drawTimer();
+    drawHearts();
 }
 
-// Draws the seconds left in the top left corner
+// Draws each heart left in the array
+function drawHearts(){
+    for (let heart of hearts) {
+        image(heartImage, heart.x, heart.y, heart.size, heart.size);
+    }
+}
+
+
+// time in top left corner
 function drawTimer(){
     fill(0,0,100);
     textSize(32);
@@ -80,11 +100,11 @@ function drawTimer(){
 
 // drawRocket function
 function drawRocket(){
-    image(rocket.image, mouseX-100, mouseY-100, 200,200);
+    image(rocket.image, mouseX-100, rocket.y, 200,200);
 
 }
 
-// Adds a new meteor above the screen when it's time for the next one
+// adds meteor to the array
 function addMeteors(){
     if (millis() > nextMeteorTime && meteors.length < totalMeteors) {
         let size = floor(random(50,200));
@@ -112,3 +132,7 @@ function moveMeteor(meteor){
     meteor.v += meteor.a;
 }
 
+// function touch meteor 
+function touchMeteor(){
+    
+}
