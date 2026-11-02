@@ -124,3 +124,7 @@ For event-P3, I made a secret door that only opens if you type the right passwor
 
 ### 1<sup>st<sup> November 2026
 For functions-P1, I made a game where you dodge meteors with a rocket :rocket:! My assets wouldn't load because preload() got removed in p5 2.0, so I learned to use await loadImage(). I also froze the prototype while trying to implement a do while loop. After creating the meteor array, it was easier to spam them on the screen. This was so fun maybe i do other games for prototypes. 
+
+### 2<sup>nd<sup> November 2026
+This prototype was quite simple i really wanted to turn around the idea of importing materials. It actually saves me a lot of time because it takes me about 3 min to draw an asset but more than 15 min just to code it. Quite similar with the previous prototype except this one isnt a game. 
+

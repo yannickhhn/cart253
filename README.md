@@ -141,9 +141,11 @@ This website is a portfolio-like platform where I share my *Creative Computation
     <img src="./prototypes/functions/functions-p1/assets/images/rocket_game.png" alt="rocket dodging meteors" width="250">
 
 
-2. **Prototype 2 :**
+2. **Prototype 2 : Bubble Click**
     - [Code](./prototypes/functions/functions-p2/js/script.js)
     - [Running Prototype](https://yannickhhn.github.io/cart253/prototypes/functions/functions-p2/index.html)
+
+    <img src="./prototypes/functions/functions-p2/assets/images/bubble_screen.png" alt="bubbles floating on a pink background" width="250">
 
 
 3. **Prototype 3 :**
