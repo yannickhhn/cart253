@@ -1,23 +1,46 @@
 /**
  * Yannick Hantaniaina 
  * 
- * Maybe something that takes mouse parameters arguments
+ * Avoid Meteor and the rocket moves with mouse. 
+ * This time i try to import assets. 
  */
 
 "use strict";
 
+// Our rocket 
+let rocket;
+
+
+
 /**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
+ * Screen size depending on device. Sets Rocket to a set position to begin with and its image source. 
 */
-function setup() {
+async function setup() {
     createCanvas(windowWidth, windowHeight);
     colorMode(HSL);
+
+    rocket = {
+        x: width/2,
+        y: 4*(height/4),
+        image: await loadImage('assets/images/rocket.png')
+    };
+
 }
 
 
+
 /**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
+ * Draws things 
 */
 function draw() {
-    background(141,72,20);
+    background(0);
+    drawRocket();
+
+}
+
+// drawRocket function
+
+function drawRocket(){
+    image(rocket.image, mouseX-50, mouseY-50, 100,100);
+
 }
