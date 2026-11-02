@@ -86,8 +86,12 @@ function draw() {
     }
     drawTimer();
     drawHearts();
+    if (getTimeLeft()===0){
+        win();
+    }
    //calls gameover if they used all their hearts before the end 
     gameOver();
+   
 }
 
 // Draws each heart left in the array
@@ -116,10 +120,23 @@ function gameOver(){
         push();
         textAlign(CENTER);
         fill('white');
-        textSize(200);
-        text('Game Over', width/2,height/2)
+        textSize(100);
+        text('You died....', width/2,height/2)
         pop();
     }
+}
+
+//function win 
+function win(){
+
+        // resets the canvas 
+        background('green');
+        push();
+        textAlign(CENTER);
+        fill('Black');
+        textSize(100);
+        text('You Win !', width/2,height/2)
+        pop();
 }
 
 // time in top left corner
