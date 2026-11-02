@@ -81,6 +81,7 @@ function draw() {
     }
     drawTimer();
     drawHearts();
+    minusHeart();
 }
 
 // Draws each heart left in the array
@@ -89,6 +90,17 @@ function drawHearts(){
         image(heartImage, heart.x, heart.y, heart.size, heart.size);
     }
 }
+
+//function to pop the hears
+function minusHeart(){
+   for (let meteor of meteors){
+    if (touchMeteor(meteor)){
+        hearts.pop()
+    }
+   }
+}
+
+//function gameover 
 
 
 // time in top left corner
@@ -133,6 +145,6 @@ function moveMeteor(meteor){
 }
 
 // function touch meteor 
-function touchMeteor(){
-    
+function touchMeteor(meteor){
+    return dist(mouseX, rocket.y+100, meteor.x+meteor.size/2, meteor.y+meteor.size/2) < meteor.size/2+50;
 }
