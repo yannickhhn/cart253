@@ -20,6 +20,8 @@ const totalMeteors = 120;
 // Our hearts, which all share one image
 let heartImage;
 let hearts = [];
+let timerStopped = false;
+
 
 // Starts the countdown from the current time
 function startTimer(){
@@ -29,6 +31,7 @@ function startTimer(){
 
 // Returns the seconds left in the game, and stops at 0
 function getTimeLeft(){
+    if (timerStopped) return 0;
     let timePassed = (millis() - startTime) / 1000;
     return max(gameLength - timePassed, 0);
 }
@@ -78,10 +81,13 @@ function draw() {
             moveMeteor(meteor);
             drawMeteor(meteor);
         }
+
+         minusHeart();
     }
     drawTimer();
     drawHearts();
-    minusHeart();
+   //calls gameover if they used all their hearts before the end 
+    gameOver();
 }
 
 // Draws each heart left in the array
@@ -94,14 +100,27 @@ function drawHearts(){
 //function to pop the hears
 function minusHeart(){
    for (let meteor of meteors){
-    if (touchMeteor(meteor)){
+    if (!meteor.hit && touchMeteor(meteor)){
+        meteor.hit = true;
         hearts.pop()
     }
    }
 }
 
 //function gameover 
+function gameOver(){
+    if (hearts.length === 0){
+        timerStopped = true;
 
+        background('red');
+        push();
+        textAlign(CENTER);
+        fill('white');
+        textSize(200);
+        text('Game Over', width/2,height/2)
+        pop();
+    }
+}
 
 // time in top left corner
 function drawTimer(){
