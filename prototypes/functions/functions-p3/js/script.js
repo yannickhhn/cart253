@@ -1,21 +1,22 @@
 /**
  * Yannick Hantaniaina
  * 
- * that sdv thing !!
+ * Rain Ripples
  */
 
 "use strict";
 
 /**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
+ * Screen size setup 
 */
 function setup() {
-
+    createCanvas(windowWidth, windowHeight);
+    
 }
 
 
 /**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
+ * 
 */
 function draw() {
 
