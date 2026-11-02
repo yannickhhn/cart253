@@ -122,5 +122,5 @@ For event-P3, I made a secret door that only opens if you type the right passwor
 
 ## Prototyping:Functions
 
-### 28<sup>th<sup> October 2026
-Hello. I havent had the time to think about this at all ahhhh. So many midterms.
+### 1<sup>st<sup> November 2026
+For functions-P1, I made a game where you dodge meteors with a rocket :rocket:! My assets wouldn't load because preload() got removed in p5 2.0, so I learned to use await loadImage(). I also froze the prototype while trying to implement a do while loop. After creating the meteor array, it was easier to spam them on the screen. This was so fun maybe i do other games for prototypes. 

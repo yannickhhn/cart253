@@ -134,9 +134,11 @@ This website is a portfolio-like platform where I share my *Creative Computation
 ---
 ## Prototyping: Functions
 
-1. **Prototype 1 :**
+1. **Prototype 1 : Meteor Dodge**
     - [Code](./prototypes/functions/functions-p1/js/script.js)
     - [Running Prototype](https://yannickhhn.github.io/cart253/prototypes/functions/functions-p1/index.html)
+
+    <img src="./prototypes/functions/functions-p1/assets/images/rocket_game.png" alt="rocket dodging meteors" width="250">
 
 
 2. **Prototype 2 :**
