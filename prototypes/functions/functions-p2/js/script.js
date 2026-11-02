@@ -1,7 +1,7 @@
 /**
  * Yannick Hantaniaina
  * 
- * Something repetitive
+ * Bubble pop 
  */
 
 "use strict";
