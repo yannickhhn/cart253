@@ -7,7 +7,7 @@
 "use strict";
 
 
-let ripples =[5]
+let ripples =[];
 
 /**
  * Screen size setup 
@@ -17,28 +17,26 @@ function setup() {
     colorMode(HSL)
 }
 
-let ripple = {
-    x: width/2,
-    y: height/2,
-    size: 30,
-    gr: 20
-}
 
 /**
  * Draws the sea at night
 */
 function draw() {
     background(225, 80, 8);
-    growRipple(ripple)
-    drawRipple(ripple)
+
+    for (let ripple of ripples){
+        growRipple(ripple)
+        drawRipple(ripple)
+    }
+    
 }
 
 
 //draws the ripple
 function drawRipple(ripple){
    push()
-   fill('none')
-   stroke('white')
+   noFill()
+   stroke(255,80,90,ripple.alpha)
    strokeWeight(4)
    circle(ripple.x,ripple.y,ripple.size)
    pop()
@@ -47,4 +45,22 @@ function drawRipple(ripple){
 //grows the ripple at constanr griwth rate 
 function growRipple(ripple){
     ripple.size += ripple.gr
+    ripple.alpha -= 0.005
+}
+
+//add Ripples 
+function addRipple(x,y){
+    let ripple = {
+        x: x,
+        y: y,
+        size: 30,
+        gr: 2,
+        alpha: 1
+    }
+    ripples.push(ripple)
+}
+
+//add ripples on mouseclick no w
+function mouseClicked(){
+    addRipple(mouseX,mouseY);
 }
