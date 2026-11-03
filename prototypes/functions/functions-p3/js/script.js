@@ -23,7 +23,7 @@ function setup() {
 */
 function draw() {
     background(225, 80, 8);
-
+    addRain()
     for (let ripple of ripples){
         growRipple(ripple)
         drawRipple(ripple)
@@ -63,4 +63,11 @@ function addRipple(x,y){
 //add ripples on mouseclick no w
 function mouseClicked(){
     addRipple(mouseX,mouseY);
+}
+
+//function to add the rain 
+function addRain(){
+    if (random() <0.05){
+        addRipple(random(width),random(height))
+    }
 }
