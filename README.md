@@ -148,9 +148,11 @@ This website is a portfolio-like platform where I share my *Creative Computation
     <img src="./prototypes/functions/functions-p2/assets/images/bubble_screen.png" alt="bubbles floating on a pink background" width="250">
 
 
-3. **Prototype 3 :**
+3. **Prototype 3 : Rain Ripples**
     - [Code](./prototypes/functions/functions-p3/js/script.js)
     - [Running Prototype](https://yannickhhn.github.io/cart253/prototypes/functions/functions-p3/index.html)
+
+    <img src="./prototypes/functions/functions-p3/assets/images/Ripples.png" alt="rain ripples on a dark blue sea" width="250">
 
 
 **Journal Entry**: [Prototyping: Functions](./journal.md#prototypingfunctions)
