@@ -21,7 +21,12 @@ function setup() {
 function draw() {
     background("pink");
     
-   
+    let wd = 0;
+    while (wd<=250) {
+
+        drawline(wd)
+        wd+=25;
+    }
 }
 
 //a function to draw a line 
