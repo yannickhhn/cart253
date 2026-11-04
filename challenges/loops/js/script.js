@@ -24,15 +24,23 @@ function draw() {
     let wd = 0;
     while (wd<=250) {
 
-        drawline(wd)
+        drawVerticalLine(wd)
+        drawHorizontalLine(wd)
         wd+=25;
     }
 }
 
 //a function to draw a line 
 //now adds weight 
-function drawline(x){
+function drawVerticalLine(x){
     stroke(x);
-    strokeWeight(x/5);
+    strokeWeight(x/10);
     line((x*2),0,(x*2),height);
+}
+
+//this is for horizontal line 
+function drawHorizontalLine(x){
+    stroke(x);
+    strokeWeight(x/10);
+    line(0,(x*2),width,(x*2));
 }
