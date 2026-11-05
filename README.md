@@ -1,7 +1,7 @@
 
 # :large_blue_diamond: **CART 253 Creative Computation Project** :large_blue_diamond:
 
-![Readme banner](./assets/images/banner.JPG)
+
 
 Author: :star2: **Yannick Hantaniaina** :star2:[^1]
 
@@ -160,4 +160,3 @@ This website is a portfolio-like platform where I share my *Creative Computation
 ---
 ## :small_blue_diamond: License 
 
-> ![Gif](./assets/images/download.gif)
