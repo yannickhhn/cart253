@@ -22,25 +22,35 @@ function setup() {
 function draw() {
     background("pink");
     
+    for (let i = 0;i<=height;i=i+10){
+        drawHorizontalLine(i);
+    }
+
     let wd = 0;
     while (wd<=250) {
         drawVerticalLine(wd)
-        drawHorizontalLine(wd)
         wd+=5;
     }
+    
+    for (let i = 0;i<=height;i=i+10){
+        drawHorizontalLine(i);
+    }
+   
+   
 }
 
 //a function to draw a line 
 //now adds weight 
 function drawVerticalLine(x){
-    stroke(x,100,100);
-    strokeWeight(x/5);
+    stroke(x)
+    strokeWeight(10);
     line((x*2),0,(x*2),height);
 }
 
 //this is for horizontal line 
 function drawHorizontalLine(x){
     stroke(x,100,100);
-    strokeWeight(x/5);
+    strokeWeight(10);
     line(0,(x*2),width,(x*2));
 }
+
