@@ -130,3 +130,5 @@ This prototype was quite simple i really wanted to turn around the idea of impor
 
 For functions-P3, I made rain ripples on the sea at night. I had way too many ideas first, like a maze and a math game with jars, but then I went for something smaller. This was super fun to make especially the rain, but I'm not sure if this is creative enough. We'are also past the array week so it was really hard to constrain myself from using arrays, i hope they're okay with that. 
 
+
+## Prototyping:Arrays

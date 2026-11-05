@@ -158,5 +158,25 @@ This website is a portfolio-like platform where I share my *Creative Computation
 **Journal Entry**: [Prototyping: Functions](./journal.md#prototypingfunctions)
 
 ---
+## Prototyping: Arrays
+
+1. **Prototype 1 :**
+    - [Code](./prototypes/arrays/arrays_p1/js/script.js)
+    - [Running Prototype](https://yannickhhn.github.io/cart253/prototypes/arrays/arrays_p1/index.html)
+
+
+2. **Prototype 2 :**
+    - [Code](./prototypes/arrays/arrays_p2/js/script.js)
+    - [Running Prototype](https://yannickhhn.github.io/cart253/prototypes/arrays/arrays_p2/index.html)
+
+
+3. **Prototype 3 :**
+    - [Code](./prototypes/arrays/arrays_p3/js/script.js)
+    - [Running Prototype](https://yannickhhn.github.io/cart253/prototypes/arrays/arrays_p3/index.html)
+
+
+**Journal Entry**: [Prototyping: Arrays](./journal.md#prototypingarrays)
+
+---
 ## :small_blue_diamond: License 
 
