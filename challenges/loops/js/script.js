@@ -7,6 +7,8 @@
 
 "use strict";
 
+
+
 /**
  * Creates the canvas
  */
