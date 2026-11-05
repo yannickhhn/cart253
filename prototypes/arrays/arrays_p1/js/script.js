@@ -6,13 +6,15 @@
  */
 
 "use strict";
+
+let cannonImage;
 /**
  * rectangular canvas to get the extent of the movement
 */
-function setup() {
+async function setup() {
     createCanvas(600,300)
     colorMode(HSL)
-    ///frameRate(20)
+    cannonImage = await loadImage('assets/images/cannon.png')
 }
 
 /**
@@ -21,15 +23,15 @@ function setup() {
 function createBall(){
     let ball = {
         //position
-        x: 50,
+        x: 60,
         y: 258,
-        size: 20,
+        size: 15,
         launch: 0,
         //color
         fill: {
-        h: 18,
-        s: 94,
-        l: 97,
+        h: 15,
+        s: 100,
+        l: 50,
         },
         //velocity
         velocity: {
@@ -44,6 +46,8 @@ function createBall(){
     }
     return ball;
 }
+
+
 /*
 * NEW ADDITIONS
 *
@@ -56,7 +60,7 @@ let balls = [];
 */
 function draw() {
     //background
-    background(8,40,40)
+    background(191,41,67)
     fill(8,80,10)
     rect(0,280,width)
 
@@ -96,20 +100,5 @@ function drawBall(ball){
 //draws the cannon
 
 function drawCannon(){
-    fill(0,0,10) 
-
-        push() // rotates cannon head towards the desired huh direction
-        stroke(0)
-        strokeWeight(2)
-        translate(60,263)
-        rotate(radians(-45))
-        rect(-35,-20,50,22)
-        pop()
-
-        push()//small square below
-        stroke(0)
-        strokeWeight(2)
-        square(30,270,20)
-        pop()
-
+    image(cannonImage,20,225,80,80);
 }
