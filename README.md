@@ -160,10 +160,11 @@ This website is a portfolio-like platform where I share my *Creative Computation
 ---
 ## Prototyping: Arrays
 
-1. **Prototype 1 :**
+1. **Prototype 1 : Multi-Launch Cannon**
     - [Code](./prototypes/arrays/arrays_p1/js/script.js)
     - [Running Prototype](https://yannickhhn.github.io/cart253/prototypes/arrays/arrays_p1/index.html)
 
+    <img src="./prototypes/arrays/arrays_p1/assets/images/image.png" alt="multi-launch cannon" width="250">
 
 2. **Prototype 2 :**
     - [Code](./prototypes/arrays/arrays_p2/js/script.js)

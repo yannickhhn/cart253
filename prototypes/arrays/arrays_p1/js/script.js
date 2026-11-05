@@ -100,5 +100,5 @@ function drawBall(ball){
 //draws the cannon
 
 function drawCannon(){
-    image(cannonImage,20,225,80,80);
+    image(cannonImage,18,225,80,80);
 }

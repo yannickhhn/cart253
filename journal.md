@@ -132,3 +132,5 @@ For functions-P3, I made rain ripples on the sea at night. I had way too many id
 
 
 ## Prototyping:Arrays
+P1 was a great start. I'm scared I wasn't creative enough, but this prototype reused my old Variable prototype. I had to rearrange the code a lot, and it just showed how much i grew in this class whether it was the way i code or how comfortable i am with the game logic now. It was so satisfying to get to fix my mistake and i forgot to push for maybe 45 min of work. anyways, nothing much has changed except that the balls are not can be launched infinitely. Have fun :)
+
