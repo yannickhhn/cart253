@@ -21,19 +21,23 @@ async function setup() {
 
     front = await loadImage('assets/front.png') 
     back = await loadImage('assets/back.png')
-    left = await loadImage('assets/size_left.png')
-    right = await loadImage('assets/size_right.png')
+    left = await loadImage('assets/side_left.png')
+    right = await loadImage('assets/side_right.png')
 
-    stars.push(front)
-    stars.push(back)
-    stars.push(left)
-    stars.push(right)
+    
 }
+stars.push(front)
+stars.push(back)
+stars.push(left)
+stars.push(right)
 
 
 /**
- * 
+ *  
 */
 function draw() {
+    background('pink')
 
 }
+
+
