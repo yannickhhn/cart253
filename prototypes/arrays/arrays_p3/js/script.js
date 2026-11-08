@@ -2,21 +2,24 @@
  * Yannick Hantaniaina
  * 
  * Trying to get a system running where all the elements in an array “live” and interact with each other or other elements on the screen 
+ * 
+ * Fireflies in a jar 
+ * 
  */
 
 "use strict";
 
 /**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
+ * screensize one 
 */
-function setup() {
-
+function setup() {  
+    createCanvas(windowWidth,windowHeight);
 }
 
 
 /**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
+ * the background 
 */
 function draw() {
-
+    background('black')
 }
