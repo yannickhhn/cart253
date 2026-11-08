@@ -9,17 +9,30 @@
 
 
 "use strict";
+let front,back,left,right;
+let stars = [];
+
 
 /**
  * small canvas to navigate 
 */
-function setup() {
+async function setup() {
+    createCanvas(200,200)
 
+    front = await loadImage('assets/front.png') 
+    back = await loadImage('assets/back.png')
+    left = await loadImage('assets/size_left.png')
+    right = await loadImage('assets/size_right.png')
+
+    stars.push(front)
+    stars.push(back)
+    stars.push(left)
+    stars.push(right)
 }
 
 
 /**
- * ehh
+ * 
 */
 function draw() {
 
