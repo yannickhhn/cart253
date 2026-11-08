@@ -8,12 +8,24 @@
  */
 
 "use strict";
+let jar, fireflyImage;
+let fireflies = [];
+let firefly;
 
 /**
  * screensize one 
 */
-function setup() {  
+async function setup() {  
     createCanvas(windowWidth,windowHeight);
+    noSmooth()
+    fireflyImage = await loadImage('assets/firefly.png')
+    jar = await loadImage('assets/jar.png')
+
+    firefly = {
+        x: 400,
+        y: 400,
+        size: 50
+    }
 }
 
 
@@ -23,3 +35,4 @@ function setup() {
 function draw() {
     background('black')
 }
+
