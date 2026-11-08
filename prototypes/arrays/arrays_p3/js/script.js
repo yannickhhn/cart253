@@ -38,11 +38,44 @@ function draw() {
     //moves and draws each firefly in the array
     for (let firefly of fireflies){
         moveFirefly(firefly);
+
+        //checks if this firefly is touching any other firefly
+        for (let other of fireflies){
+            if (firefly !== other){
+                let d = dist(firefly.x, firefly.y, other.x, other.y);
+                if (d < firefly.size){
+                    //lights up to full brightness
+                    firefly.glow = 255;
+                }
+            }
+        }
+
+        //glow first so the firefly is drawn on top of its light
+        drawGlow(firefly);
         drawFirefly(firefly);
     }
-
 }
 
+//draws a circle of light around the firefly that fades back down after a touch
+function drawGlow(firefly){
+    //fades a little each frame, but never below a soft base light
+    firefly.glow = max(firefly.glow - 5, 40);
+
+    //the brighter it is, the bigger the light
+    let glowSize = map(firefly.glow, 40, 255, firefly.size, firefly.size * 3);
+    let centerX = firefly.x + firefly.size / 2;
+    let centerY = firefly.y + firefly.size / 2;
+
+    push();
+    noStroke();
+    //soft outer light
+    fill(255, 220, 100, firefly.glow / 6);
+    ellipse(centerX, centerY, glowSize * 1.5);
+    //bright inner light
+    fill(255, 220, 100, firefly.glow / 2);
+    ellipse(centerX, centerY, glowSize);
+    pop();
+}
 //draws the jar image
 function drawJar(){
     image(jar,500,10,800,800);
@@ -99,7 +132,9 @@ function createFirefly(x,y){
         y: y,
         size: 50,
         vx: random(-2, 2),
-        vy: random(-2, 2)
+        vy: random(-2, 2),
+        //how bright its light is (40 = soft, 255 = super bright)
+        glow: 40
     }
     return firefly;
 }
