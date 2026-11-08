@@ -11,7 +11,7 @@
 "use strict";
 
 /**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
+ * small canvas to navigate 
 */
 function setup() {
 
@@ -19,7 +19,7 @@ function setup() {
 
 
 /**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
+ * ehh
 */
 function draw() {
 
