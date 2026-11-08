@@ -166,9 +166,11 @@ This website is a portfolio-like platform where I share my *Creative Computation
 
     <img src="./prototypes/arrays/arrays_p1/assets/images/image.png" alt="multi-launch cannon" width="250">
 
-2. **Prototype 2 :**
+2. **Prototype 2 : Star Waltz**
     - [Code](./prototypes/arrays/arrays_p2/js/script.js)
     - [Running Prototype](https://yannickhhn.github.io/cart253/prototypes/arrays/arrays_p2/index.html)
+
+    <img src="./prototypes/arrays/arrays_p2/assets/star_waltz.png" alt="purple star sprite on a checkered floor" width="250">
 
 
 3. **Prototype 3 :**
